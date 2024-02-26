@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Research activities on ICEs (2018-present)"
+excerpt: "Combustion, flow measurement, and thermodynamics for engine applications. <br/><img src='/images/engine_cell.png'>"
 collection: portfolio
 ---
 
