@@ -35,13 +35,11 @@ The CCGEx project (2018-2023) cooperated with industrial partners is "Exergy ana
 
 Teaching Activity
 ------
-Teacher and teaching assistant:
-MF2047 Internal combustion engines, I : Fundamentals (Autumn 2019, 2020, 2021)
-MF2066 Internal combustion engines Advanced course (Spring 2019, 2022)
-MF2083 Internal combustion engines, II: Combution process, gas dynamics, and engine simulation (Spring 2021, 2022)
-MF133X Degree project in mechatronics (Spring 2022)
-MF224X Degree project in mechatronics, second cycle (Autumn 2022)
+Teacher and teaching assistant (2018-2023):
 
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+* MF2047 Internal combustion engines, I : Fundamentals (Autumn 2019, 2020, 2021)
+* MF2066 Internal combustion engines Advanced course (Spring 2019, 2022)
+* MF2083 Internal combustion engines, II: Combution process, gas dynamics, and engine simulation (Spring 2021, 2022)
+* MF133X Degree project in mechatronics (Spring 2022, 2023)
+* MF224X Degree project in mechatronics, second cycle (Autumn 2022)
+
