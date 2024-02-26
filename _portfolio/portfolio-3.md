@@ -4,9 +4,9 @@ excerpt: "Energy efficiency optimization and environmental impact assessment of 
 collection: portfolio
 ---
 
-![engine_cell](/images/engine_cell.png)
+![engine_cell](images/engine_cell.png)
 
-![battery](/images/battery.png)
+![battery](images/battery.png)
 
-![wheel_loader](/images/wheel_loader.png)
+![wheel_loader](images/wheel_loader.png)
 
