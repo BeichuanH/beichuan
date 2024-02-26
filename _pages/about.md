@@ -25,7 +25,7 @@ My work conducted at CCGEx focuses on exergy analysis of combustion systems and 
 
 From  2016 to 2018, I was a Licentiate student / research engineer at the KTH Transport Planning division within the project of “Optimal Construction Operations”, which was funded by Volvo Construction Equipment (Construction Climate Challenge). My work at the Transport Planning division, Department of Civil and Architectural Engineering involves the optimal control application on construction operations.
 
-<img src="/images/wheel_loader" width="600">
+<img src="/images/wheel_loader.png" width="600">
 
 
 Getting started
