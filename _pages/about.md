@@ -23,6 +23,8 @@ My work conducted at CCGEx focuses on exergy analysis of combustion systems and 
 
 From  2016 to 2018, I was a Licentiate student / research engineer at the KTH Transport Planning division within the project of “Optimal Construction Operations”, which was funded by Volvo Construction Equipment (Construction Climate Challenge). My work at the Transport Planning division, Department of Civil and Architectural Engineering involves the optimal control application on construction operations.
 
+Before moving to Sweden, I obtained both his bachelor and master degrees from Wuhan University of Technology, China. My bachelor degree was in Energy, Power Systems and Automation (2008-2012), and the master degree was in Marine and Power Machinery Engineering, specializing in Combustion Engines and Emission Control (2012-2014). Since 2014, I worked as a development engineer for 1.5 years at the Cummins East Asia Research & Development Center (Cummins EA R&D).
+
 
 CCGEx Project
 ------
