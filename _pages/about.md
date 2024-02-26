@@ -1,19 +1,22 @@
 ---
 permalink: /
-title: "Beichuan Hong Personal Webpage"
+title: "Hi there, I'm Beichuan!"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Beichuan's research interests include the evaluation and optimization of energy and propulsion systems, alongside modeling and control theory for automotive applications. His experience covers combustion engines using renewable fuel, energy optimization for hybrid powertrain systems, discrete-event simulation for transport systems, system identification for mechatronics, and optimal control for autonomous construction vehicles.
+I am currently working as a consultant at the AFRY Södertälje office in the automotive field. I hold a Ph.D. degree from the [Unit of Mechatronics](www.kth.se/mmk/mechatronics), [Department of Engineering Design](www.kth.se/mmk/department-of-machine-design-1.974324) & [Competence Center for Gas Exchange (CCGEx)](www.ccgex.kth.se) at KTH Royal Institute of Technology in Sweden (2023). 
 
-Beichuan holds a Ph.D. degree from the [Unit of Mechatronics](www.kth.se/mmk/mechatronics), [Department of Engineering Design](www.kth.se/mmk/department-of-machine-design-1.974324) & [Competence Center for Gas Exchange (CCGEx)](www.ccgex.kth.se) at KTH Royal Institute of Technology in Sweden (2023). His doctoral work was mainly with [Dr. Andreas Cronhjort](www.kth.se/profile/qwerty), [Professor. Mihai Mihaescu](www.kth.se/profile/mihaescu), and [Professor. Anders Christiansen Erlandsson](scholar.google.se/citations?user=Y5rj2A0AAAAJ&hl=en). His research was conducted in the KTH-CCGEx center and was funded by the Swedish Energy Agency (Energimyndigheten), KTH-CCGEx center and its industrial partners.
+My research interests include the evaluation and optimization of energy and propulsion systems, alongside modeling and control theory for automotive applications. My experience covers combustion engines using renewable fuel, energy optimization for hybrid powertrain systems, discrete-event simulation for transport systems, system identification for mechatronics, and optimal control for autonomous construction vehicles.
+
 
 Profession & Education
 ======
-My doctoral studies (2018-2023) have focused on thermal analyses and optimization of propulsion systems for marine and vehicle applications, with particular interest in combustion engines using renewable fuels and electrification approaches employing hybrid driveline systems. I possess expertise in modeling, control, and estimation for dynamic systems within the automotive sector.
+My doctoral studies (2018-2023) have focused on thermal analyses and optimization of propulsion systems for marine and vehicle applications, with particular interest in combustion engines using renewable fuels and electrification approaches employing hybrid driveline systems. I possess expertise in modeling, control, and estimation for dynamic systems within the automotive sector. My doctoral work was mainly with [Dr. Andreas Cronhjort](www.kth.se/profile/qwerty), [Professor. Mihai Mihaescu](www.kth.se/profile/mihaescu), and [Professor. Anders Christiansen Erlandsson](scholar.google.se/citations?user=Y5rj2A0AAAAJ&hl=en). My research was conducted in the KTH-CCGEx center and was funded by the Swedish Energy Agency (Energimyndigheten), KTH-CCGEx center and its industrial partners.
+
+![Book logo](/image/engine_cell.png)
 
 My work conducted at CCGEx focuses on exergy analysis of combustion systems and the exhaust pulsating flows. The study, carried out from 2018 to 2023, is related to biofuel combustion analysis, exhaust flow field measurement and estimation, as well as emission control strategies. Meanwhile, at the Unit of Mechatronics  (2021-2023), I have also been involved in teaching and research projects concerning embedded systems for motor control, system identification of battery models, and energy optimization of hybrid powertrain systems.
 
