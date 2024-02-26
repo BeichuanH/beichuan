@@ -5,17 +5,21 @@ collection: portfolio
 ---
 
 
-Research at KTH Internal Combustion Engines division (2018-2021) and Unit of Mechatronics (2021-2023), the Department of Engineering Design & CCGEx
+Research at KTH Internal Combustion Engines division (2018-2021), the Department of Engineering Design & CCGEx
+======
 
 His research work on the internal combustion engines (ICEs) area was conducted at CCGEx. The project involves the following topics:
 
-Energy and exergy assessments of marine & HD truck engine systems.
-Combustion characterization associated with alcohol fuels.
-Aerothermodynamic analysis of gas-exchange systems.
-Measurement of exhaust pulses using fast flow measurement techniques.
+* Energy and exergy assessments of marine & HD truck engine systems.
+* Combustion characterization associated with alcohol fuels.
+* Aerothermodynamic analysis of gas-exchange systems.
+* Measurement of exhaust pulses using fast flow measurement techniques.
+
+  
 Ph.D. defense presentation file: defense_ver02.pdf. The link for doctorial thesis in KTH diva: Exergy Evaluation of Engine Operations: Combustion Process to Exhaust Flow.
 
 Combustion characterization and exhaust power assessment
+------
 
 RQ: Compared with gasoline, how do the different combustion patterns using bio-fuels affect the energy and exergy losses during combustion and the working potential of exhaust?
 
@@ -28,6 +32,7 @@ Related publication: Hong, B., Lius, A., Mahendar, S. K., Mihaescu, M., & Cronhj
 
 
 Energy and exergy distribution though engine systems
+------
 
 RQ: Where and to what extent do the engine exergy losses occur, associated with combustion, heat dissipation, and gas exchange?
 
