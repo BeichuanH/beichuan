@@ -1,6 +1,6 @@
 ---
-title: "Research activities on ICEs (2018-present)"
-excerpt: "Combustion, flow measurement, and thermodynamics for engine applications. <br/><img src='/images/engine_cell.png'>"
+title: "Research activities (2016-2018, 2023-present)"
+excerpt: "Energy efficiency optimization and environmental impact assessment of construction vehicle operations. <br/><img src='/images/wheel_loader.png'>"
 collection: portfolio
 ---
 
