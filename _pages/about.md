@@ -16,7 +16,7 @@ Profession & Education
 ======
 My doctoral studies (2018-2023) have focused on thermal analyses and optimization of propulsion systems for marine and vehicle applications, with particular interest in combustion engines using renewable fuels and electrification approaches employing hybrid driveline systems. I possess expertise in modeling, control, and estimation for dynamic systems within the automotive sector. My doctoral work was mainly with [Dr. Andreas Cronhjort](www.kth.se/profile/qwerty), [Professor. Mihai Mihaescu](www.kth.se/profile/mihaescu), and [Professor. Anders Christiansen Erlandsson](scholar.google.se/citations?user=Y5rj2A0AAAAJ&hl=en). My research was conducted in the KTH-CCGEx center and was funded by the Swedish Energy Agency (Energimyndigheten), KTH-CCGEx center and its industrial partners.
 
-![Book logo](/image/engine_cell.png)
+![Engine_cell](/images/engine_cell.png)
 
 My work conducted at CCGEx focuses on exergy analysis of combustion systems and the exhaust pulsating flows. The study, carried out from 2018 to 2023, is related to biofuel combustion analysis, exhaust flow field measurement and estimation, as well as emission control strategies. Meanwhile, at the Unit of Mechatronics  (2021-2023), I have also been involved in teaching and research projects concerning embedded systems for motor control, system identification of battery models, and energy optimization of hybrid powertrain systems.
 
