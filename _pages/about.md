@@ -1,19 +1,23 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Beichuan Hong Personal Webpage"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+Beichuan's research interests include the evaluation and optimization of energy and propulsion systems, alongside modeling and control theory for automotive applications. His experience covers combustion engines using renewable fuel, energy optimization for hybrid powertrain systems, discrete-event simulation for transport systems, system identification for mechatronics, and optimal control for autonomous construction vehicles.
 
-Beichuan Personal Website
+Beichuan holds a Ph.D. degree from the [Unit of Mechatronics](www.kth.se/mmk/mechatronics), [Department of Engineering Design](www.kth.se/mmk/department-of-machine-design-1.974324) & [Competence Center for Gas Exchange (CCGEx)](www.ccgex.kth.se) at KTH Royal Institute of Technology in Sweden (2023). His doctoral work was mainly with [Dr. Andreas Cronhjort](www.kth.se/profile/qwerty), [Professor. Mihai Mihaescu](www.kth.se/profile/mihaescu), and [Professor. Anders Christiansen Erlandsson](scholar.google.se/citations?user=Y5rj2A0AAAAJ&hl=en). His research was conducted in the KTH-CCGEx center and was funded by the Swedish Energy Agency (Energimyndigheten), KTH-CCGEx center and its industrial partners.
+
+Profession & Education
 ======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+My doctoral studies (2018-2023) have focused on thermal analyses and optimization of propulsion systems for marine and vehicle applications, with particular interest in combustion engines using renewable fuels and electrification approaches employing hybrid driveline systems. I possess expertise in modeling, control, and estimation for dynamic systems within the automotive sector.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+My work conducted at CCGEx focuses on exergy analysis of combustion systems and the exhaust pulsating flows. The study, carried out from 2018 to 2023, is related to biofuel combustion analysis, exhaust flow field measurement and estimation, as well as emission control strategies. Meanwhile, at the Unit of Mechatronics  (2021-2023), I have also been involved in teaching and research projects concerning embedded systems for motor control, system identification of battery models, and energy optimization of hybrid powertrain systems.
+
+From  2016 to 2018, I was a Licentiate student / research engineer at the KTH Transport Planning division within the project of “Optimal Construction Operations”, which was funded by Volvo Construction Equipment (Construction Climate Challenge). My work at the Transport Planning division, Department of Civil and Architectural Engineering involves the optimal control application on construction operations.
 
 Getting started
 ======
