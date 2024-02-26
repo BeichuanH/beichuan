@@ -4,7 +4,7 @@ excerpt: "Energy efficiency optimization and environmental impact assessment of 
 collection: portfolio
 ---
 
-Research at KTH Internal Combustion Engines division (2018-2021) and Unit of Mechatronics (2021-2023), the Department of Engineering Design & CCGEx
+Research at KTH Internal Combustion Engines division (2018-2021), the Department of Engineering Design & CCGEx
 
 His research work on the internal combustion engines (ICEs) area was conducted at CCGEx. The project involves the following topics:
 
