@@ -19,17 +19,13 @@ My doctoral studies (2018-2023) have focused on thermal analyses and optimizatio
 
 Reaserach Activity
 ------
-
-My work conducted at CCGEx focuses on exergy analysis of combustion systems and the exhaust pulsating flows. The study, carried out from 2018 to 2023, is related to biofuel combustion analysis, exhaust flow field measurement and estimation, as well as emission control strategies. 
+My work conducted at CCGEx focuses on exergy analysis of combustion systems and the exhaust pulsating flows. The study, carried out from 2018 to 2023, is related to biofuel combustion analysis, exhaust flow field measurement and estimation, as well as emission control strategies. Meanwhile, at the Unit of Mechatronics  (2021-2023), I have also been involved in teaching and research projects concerning embedded systems for motor control, system identification of battery models, and energy optimization of hybrid powertrain systems.
 
 ![engine_cell](/images/engine_cell.png)
-
- Meanwhile, at the Unit of Mechatronics  (2021-2023), I have also been involved in teaching and research projects concerning embedded systems for motor control, system identification of battery models, and energy optimization of hybrid powertrain systems.
-
 ![battery](/images/battery.png)
 
-From  2016 to 2018, I was a Licentiate student / research engineer at the KTH Transport Planning division within the project of “Optimal Construction Operations”, which was funded by Volvo Construction Equipment (Construction Climate Challenge). My work at the Transport Planning division, Department of Civil and Architectural Engineering involves the optimal control application on construction operations.
 
+From  2016 to 2018, I was a Licentiate student / research engineer at the KTH Transport Planning division within the project of “Optimal Construction Operations”, which was funded by Volvo Construction Equipment (Construction Climate Challenge). My work at the Transport Planning division, Department of Civil and Architectural Engineering involves the optimal control application on construction operations.
 ![wheel_loader](/images/wheel_loader.png)
 
 CCGEx Project
