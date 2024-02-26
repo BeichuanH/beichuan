@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Beichuan Hong"
+title                    : "Beichuan's homepage"
 title_separator          : "-"
 name                     : &name "Beichuan Hong"
 description              : &description "personal description"
