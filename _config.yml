@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "beichuan.png"
   name             : "Beichuan Hong"
   pronouns         : # example: "she/her"  
   bio              : "Propulsion system engineer at AFRY, PhD at KTH"
