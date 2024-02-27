@@ -39,6 +39,7 @@ RQ: Where and to what extent do the engine exergy losses occur, associated with 
 Energy and exergy analyses were conducted on two engine systems: a Scania D13 truck engine and a Wärtsilä 31DF marine engine. These analyses aimed to quantify the available energy losses of various components. Moreover, engine losses are characterized and quantified as three types: combustion, heat dissipation, and gas exchange losses. The results of the truck engine analysis were reported in a CCGEx internal report in 2019, while the analysis of the marine engine was published in 2020 (ICEF 2020-2956).
 
 <span style="font-size: small;">Related publication: Hong, B., Mahendar, S. K., Hyvönen, J., Cronhjort, A., & Erlandsson, A. C. (2020, November). Quantification of losses and irreversibilities in a marine engine for gas and diesel fuelled operation using an exergy analysis approach. In Internal Combustion Engine Division Fall Technical Conference (Vol. 84034, p. V001T01A005). American Society of Mechanical Engineers</span>
+<a href="https://doi.org/10.1115/ICEF2020-2956" class="small-link">10.1115/ICEF2020-2956.</a>
 
 Related publication: Hong, B., Mahendar, S. K., Hyvönen, J., Cronhjort, A., & Erlandsson, A. C. (2020, November). Quantification of losses and irreversibilities in a marine engine for gas and diesel fuelled operation using an exergy analysis approach. In Internal Combustion Engine Division Fall Technical Conference (Vol. 84034, p. V001T01A005). American Society of Mechanical Engineers, [10.1115/ICEF2020-2956](https://doi.org/10.1115/ICEF2020-2956).
 
