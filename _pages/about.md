@@ -41,9 +41,13 @@ My Licentiate study (2016-2018) at the Transport Planning division is for a proj
 
 <a href="https://beichuanh.github.io/beichuan/portfolio/portfolio-3/">Research Activities on Transport Science</a>
 
-CCGEx Project
+The file of my self-introduction presentation on September 22, 2023: <a href="https://beichuanh.github.io/beichuan/files/presentation_ver4.pdf" download="beichuan_presentation_09222023.pdf">defense_ver02</a>
+
+KTH-CCGEx Project
 ------
-The CCGEx project (2018-2023) cooperated with industrial partners is "Exergy analysis for high-efficiency gas exchange systems". A magazine interview in 2020 about this project: [exergy study takes a practical approach to dual-fuel engine performance](https://www.motorship.com/exergy-study-takes-practical-approach-to-dual-fuel-engine-performance/1370852.article). 
+The CCGEx project cooperated with industrial partners is "Exergy analysis for high-efficiency gas exchange systems". A magazine interview in 2020 about this project: [exergy study takes a practical approach to dual-fuel engine performance](https://www.motorship.com/exergy-study-takes-practical-approach-to-dual-fuel-engine-performance/1370852.article). 
+
+The CCGEx project update poster in May 2022: <a href="https://beichuanh.github.io/beichuan/files/beichuan_2022ccgex_poster03.pdf" download="beichuan_2022ccgex_poster03.pdf">defense_ver02</a>
 
 
 Teaching Activity
