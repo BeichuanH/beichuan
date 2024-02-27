@@ -45,7 +45,7 @@ The file of my self-introduction presentation on September 22, 2023: <a href="ht
 
 KTH-CCGEx Project
 ------
-One of the collaborative projects with industrial partners I've been involved in at KTH-CCGEx is titled "Exergy analysis for high-efficiency gas exchange systems." This project is conducted in cooperation with Wärtsilä Finland Oy.
+One of the collaborative projects with industrial partners at KTH-CCGEx was titled "Exergy analysis for high-efficiency gas exchange systems." This project was conducted in cooperation with Wärtsilä Finland Oy.
 In 2020, we participated in a magazine interview discussing the aforementioned project and its implications.: [exergy study takes a practical approach to dual-fuel engine performance](https://www.motorship.com/exergy-study-takes-practical-approach-to-dual-fuel-engine-performance/1370852.article). 
 
 The CCGEx project update poster in May 2022: <a href="https://beichuanh.github.io/beichuan/files/beichuan_2022ccgex_poster03.pdf" download="beichuan_2022ccgex_poster03.pdf">beichuan_2022ccgex_poster03.pdf</a>
