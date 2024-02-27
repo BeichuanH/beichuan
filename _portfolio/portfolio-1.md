@@ -8,14 +8,14 @@ collection: portfolio
 Research at KTH Internal Combustion Engines division (2018-2021), the Department of Engineering Design & CCGEx
 ------
 
-His research work on the internal combustion engines (ICEs) area was conducted at CCGEx. The project involves the following topics:
+My research work on the internal combustion engines (ICEs) area was conducted at CCGEx. The project involves the following topics:
 
 * Energy and exergy assessments of marine & HD truck engine systems.
 * Combustion characterization associated with alcohol fuels.
 * Aerothermodynamic analysis of gas-exchange systems.
 * Measurement of exhaust pulses using fast flow measurement techniques.
 
-  
+
 Ph.D. defense presentation file: defense_ver02.pdf. The link for doctorial thesis in KTH diva: Exergy Evaluation of Engine Operations: Combustion Process to Exhaust Flow.
 
 Combustion characterization and exhaust power assessment
@@ -26,11 +26,9 @@ RQ: Compared with gasoline, how do the different combustion patterns using bio-f
 Based on an experiment on a single-cylinder research engine and GT-Power simulation, our study (2020.12 - 2021.03) contributes with a deeper understanding of the high-load performance of an ethanol-fueled heavy-duty SI engine using lean-burn combustion with excess air ratios up to 1.8. The engine’s thermal efficiency and combustion phasing are evaluated for knock limited operation and then compared to the theoretical optimum which is regardless of knock. Losses through heat transfer, exhaust flow, and incomplete combustion are quantified.
 
 
+<img src="https://beichuanh.github.io/beichuan/images/engine_1.png" alt="engine_lean" style='width: 550px; height: auto;'>
 
-Related publication: Hong, B., Lius, A., Mahendar, S. K., Mihaescu, M., & Cronhjort, A. (2023). Energy and exergy characteristics of an ethanol-fueled heavy-duty SI engine at high-load operation using lean-burn combustion. Applied Thermal Engineering, 224, 120063.
-
-
-
+Related publication: Hong, B., Lius, A., Mahendar, S. K., Mihaescu, M., & Cronhjort, A. (2023). Energy and exergy characteristics of an ethanol-fueled heavy-duty SI engine at high-load operation using lean-burn combustion. Applied Thermal Engineering, 224, 120063. [10.1016/j.applthermaleng.2023.120063](https://doi.org/10.1016/j.applthermaleng.2023.120063)
 
 
 Energy and exergy distribution though engine systems
@@ -42,7 +40,8 @@ Energy and exergy analyses were conducted on two engine systems: a Scania D13 tr
 
 Related publication: Hong, B., Mahendar, S. K., Hyvönen, J., Cronhjort, A., & Erlandsson, A. C. (2020, November). Quantification of losses and irreversibilities in a marine engine for gas and diesel fuelled operation using an exergy analysis approach. In Internal Combustion Engine Division Fall Technical Conference (Vol. 84034, p. V001T01A005). American Society of Mechanical Engineers.
 
-marine_photo
+<img src="https://beichuanh.github.io/beichuan/images/engine_2.png" alt="marine photo" style='width: 550px; height: auto;'>
+<img src="https://beichuanh.github.io/beichuan/images/engine_3.png" alt="exergy losses" style='width: 550px; height: auto;'>
 
 Resources of marine engine exergy losses
 
