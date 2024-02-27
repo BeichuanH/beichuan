@@ -23,7 +23,7 @@ Work experience
 * 2018 - 2023: Ph.D. Student
   * Unit of Mechatronics, KTH Royal Institute of Technology, Sweden
   * Supervisor: Andreas Cronhjort, Mihai Mihaescu, and Anders Christiansen Erlandsson
-  * Work Content: Engine and propulsion system modelling, Exergy losses analysis
+  * Work Content: Engine and hybrid propulsion system modelling, Energy and exergy analysis
 
 * 2016 - 2018: Licentiate Student / Research Engineer
   * Transport Planning division, KTH Royal Institute of Technology, Sweden
@@ -45,7 +45,7 @@ Completed Courses
 ======
 Ph.D. courses (60 hp) at KTH Department of Engineering Design, ITM (2018-2023):
 
-Engineering courses:
+*** Engineering courses:
 
 * FMJ3116 Engineering Thermodynamics;
 * FSG3132 Gas Dynamics and Turbomachinery;
@@ -53,7 +53,7 @@ Engineering courses:
 * FSM3001 Data-driven Methods in Engineering;
 * EL2320 Applied Estimation.
 
-Research courses:
+*** Research courses:
 
 * FDS3102 Writing Scientific Articles;
 * FMF3404 Research Questions and Literature Survey;
@@ -61,15 +61,15 @@ Research courses:
 
 Licentiate courses (45 hp) at KTH Department of Civil and Architectural Engineering, ABE (2016-2018) :
 
-Engineering courses:
+*** Engineering courses:
 
 * FDD3359 Reinforcement Learning;
 * SD2231 Applied Vehicle Dynamics Control;
 * EL2700 Model Predictive Control;
 * FSF3852 Optimal Control Theory.
 
-Research courses:
+*** Research courses:
 
-*FAK3137 Theory of Science and Research Method, Technological and Natural Sciences;
-*FAH3460 Topics in Transport Science.
+* FAK3137 Theory of Science and Research Method, Technological and Natural Sciences;
+* FAH3460 Topics in Transport Science.
 
