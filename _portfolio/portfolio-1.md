@@ -4,8 +4,7 @@ excerpt: "Combustion, flow measurement, and thermodynamics for engine applicatio
 collection: portfolio
 ---
 
-
-Research at KTH Internal Combustion Engines division (2018-2021), the Department of Engineering Design & CCGEx
+Research at KTH Internal Combustion Engines Division (2018-Present), the Department of Engineering Design & CCGEx
 ------
 
 My research work on the internal combustion engines (ICEs) area was conducted at CCGEx. The project involves the following topics:
@@ -51,7 +50,6 @@ RQ: How to quantify exhaust pulsating flow enthalpy & exergy by using fast measu
 A sensitivity analysis-based method was applied to identify the significance of different flow parameters for the energy assessment of exhaust pulsation (2020). This study shows that the impacts of instantaneous flow velocity are important for exhaust energy quantification.
 
 
-
 <img src="https://beichuanh.github.io/beichuan/images/engine_5.png" alt="sensitivity_analysis" style='width: 650px; height: auto;'>
 
 <span style="font-size: small;">Related publication: Hong, B., Venkataraman, V., & Cronhjort, A. (2021), Numerical analysis of engine exhaust flow parameters for resolving pre-turbine pulsating flow enthalpy and exergy. Energies, 14(19), 6183, [10.3390/en14196183](https://doi.org/10.3390/en14196183).</span>
@@ -63,7 +61,6 @@ On-engine tests for measuring exhaust pulsation were completed in 2021 for a Sca
 <img src="https://beichuanh.github.io/beichuan/images/engine_7.png" alt="pulse_pt" style='width: 650px; height: auto;'>
 
 <span style="font-size: small;">Related publications: Hong, B., Venkataraman, V., Mihaescu, M., & Cronhjort, A. (2024). Crank angle-resolved mass flow characterization of engine exhaust pulsations using a Pitot tube and thin-wire thermocouples. Applied Thermal Engineering, 236, 121725, [10.1016/j.applthermaleng.2023.121725](https://doi.org/10.1016/j.applthermaleng.2023.121725).</span>
-
 <span style="font-size: small;">Venkataraman, V., Hong, B., & Cronhjort, A. (2023). Analyzing Engine Exhaust Gas Temperature Pulsations and Gas-Dynamics Using Thin-Wire Thermocouples.Journal of Engineering for Gas Turbines and Power, 1-13, [10.1115/1.4064314](https://doi.org/10.1115/1.4064314).</span>
 
 The research project on marine engine aims to measure and analyze the pulsating exhaust flow of a Wärtsilä single-cylinder research engine. The experimental campaign was conducted at the Wärtsilä Sustainable Technology Hub in Vaasa, Finland and consisted of two stages:
