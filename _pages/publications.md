@@ -7,6 +7,7 @@ author_profile: true
 
 {% if site.author.googlescholar %}
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
+  
 {% endif %}
 
 Conference Presentation
@@ -47,7 +48,7 @@ Licentiate courses (45 hp) at KTH Department of Civil and Architectural Engineer
 * EL2700 Model Predictive Control;
 * FSF3852 Optimal Control Theory.
 
- ### Research courses:
+### Research courses:
 
 * FAK3137 Theory of Science and Research Method, Technological and Natural Sciences;
 * FAH3460 Topics in Transport Science.
