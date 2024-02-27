@@ -29,7 +29,7 @@ Based on an experiment on a single-cylinder research engine and GT-Power simulat
 <img src="https://beichuanh.github.io/beichuan/images/engine_1.png" alt="engine_lean" style='width: 650px; height: auto;'>
 <img src="https://beichuanh.github.io/beichuan/images/engine_2.png" alt="distribution_lean" style='width: 650px; height: auto;'>
 
-<span style="font-size: small;">Related publication: Hong, B., Lius, A., Mahendar, S. K., Mihaescu, M., & Cronhjort, A. (2023). Energy and exergy characteristics of an ethanol-fueled heavy-duty SI engine at high-load operation using lean-burn combustion. Applied Thermal Engineering, 224, 120063, https://doi.org/10.1016/j.applthermaleng.2023.120063. </span>
+<span style="font-size: small;">Related publication: Hong, B., Lius, A., Mahendar, S. K., Mihaescu, M., & Cronhjort, A. (2023). Energy and exergy characteristics of an ethanol-fueled heavy-duty SI engine at high-load operation using lean-burn combustion. Applied Thermal Engineering, 224, 120063, [10.1016/j.applthermaleng.2023.120063](https://doi.org/10.1016/j.applthermaleng.2023.120063). </span>
 
 
 Energy and exergy distribution though engine systems
