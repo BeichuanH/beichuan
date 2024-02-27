@@ -58,7 +58,8 @@ A sensitivity analysis-based method was applied to identify the significance of 
 
 On-engine tests for measuring exhaust pulsation were completed in 2021 for a Scania truck engine and in 2022 for a Wärtsilä marine engine. A Pitot tube-based approach is adopted to measure exhaust mass flow pulsations, complemented by fast temperature measurements obtained using customized unsheathed thin-wire thermocouples.
 
-
+<img src="https://beichuanh.github.io/beichuan/images/engine_6.png" alt="flow_measure" style='width: 650px; height: auto;'>
+<img src="https://beichuanh.github.io/beichuan/images/engine_7.png" alt="pulse_pt" style='width: 650px; height: auto;'>
 
 <span style="font-size: small;">Related publications: Hong, B., Venkataraman, V., Mihaescu, M., & Cronhjort, A. (2024). Crank angle-resolved mass flow characterization of engine exhaust pulsations using a Pitot tube and thin-wire thermocouples. Applied Thermal Engineering, 236, 121725, [10.1016/j.applthermaleng.2023.121725](https://doi.org/10.1016/j.applthermaleng.2023.121725).</span>
 
