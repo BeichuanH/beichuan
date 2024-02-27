@@ -15,8 +15,8 @@ My research work on the internal combustion engines (ICEs) area was conducted at
 * Aerothermodynamic analysis of gas-exchange systems.
 * Measurement of exhaust pulses using fast flow measurement techniques.
 
-
-Ph.D. defense presentation file: defense_ver02.pdf. The link for doctorial thesis in KTH diva: [Exergy Evaluation of Engine Operations: Combustion Process to Exhaust Flow](https://kth.diva-portal.org/smash/get/diva2:1804474/FULLTEXT01.pdf).
+Ph.D. defense presentation file: <a href="https://beichuanh.github.io/beichuan/files/defense_ver02.pdf download="beichuan_defense_ver02.pdf"> defense_ver02 </a>
+The link for doctorial thesis in KTH diva: [Exergy Evaluation of Engine Operations: Combustion Process to Exhaust Flow](https://kth.diva-portal.org/smash/get/diva2:1804474/FULLTEXT01.pdf).
 
 Combustion characterization and exhaust power assessment
 ------
