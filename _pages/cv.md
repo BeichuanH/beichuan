@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Resume"
+title: "Contact"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,11 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
-Email at KTH: beichuan@kth.se
-Email at AFRY: beichuan.hong@afry.com
-Phone: (+46) 070 0281 659
-Address: Armégatan 32a, SE-171 71, Solna, Sweden
-KTH webpage: ![https://www.kth.se/profile/beichuan](https://www.kth.se/profile/beichuan)
+* Email at KTH: beichuan@kth.se
+* Email at AFRY: beichuan.hong@afry.com
+* Phone: (+46) 070 0281 659
+* Address: Armégatan 32a, SE-171 71, Solna, Sweden
+* KTH webpage: ![https://www.kth.se/profile/beichuan](https://www.kth.se/profile/beichuan)
 
 Education
 ======
@@ -37,8 +37,6 @@ Work Experience
 * 2014 - 2015: Development engineer / Intern
   * Advanced Engine & Technology Department, Cummins East Asian Research & Development Center, China
 
-
-
 Technical Strengths
 ======
 * Technical Skills: Energy Evaluation and Optimization of Dynamic Systems, Simulation, Modelling
@@ -50,7 +48,6 @@ Completed Courses
 Ph.D. courses (60 hp) at KTH Department of Engineering Design, ITM (2018-2023):
 
 ### Engineering courses:
-
 
 * FMJ3116 Engineering Thermodynamics;
 * FSG3132 Gas Dynamics and Turbomachinery;
