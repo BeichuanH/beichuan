@@ -16,7 +16,7 @@ My research work on the internal combustion engines (ICEs) area was conducted at
 * Measurement of exhaust pulses using fast flow measurement techniques.
 
 
-Ph.D. defense presentation file: defense_ver02.pdf. The link for doctorial thesis in KTH diva: Exergy Evaluation of Engine Operations: Combustion Process to Exhaust Flow.
+Ph.D. defense presentation file: defense_ver02.pdf. The link for doctorial thesis in KTH diva: [Exergy Evaluation of Engine Operations: Combustion Process to Exhaust Flow](https://kth.diva-portal.org/smash/get/diva2:1804474/FULLTEXT01.pdf).
 
 Combustion characterization and exhaust power assessment
 ------
@@ -45,6 +45,9 @@ Energy and exergy analyses were conducted on two engine systems: a Scania D13 tr
 <span style="font-size: small;">Related publication: Hong, B., Mahendar, S. K., Hyvönen, J., Cronhjort, A., & Erlandsson, A. C. (2020, November). Quantification of losses and irreversibilities in a marine engine for gas and diesel fuelled operation using an exergy analysis approach. In Internal Combustion Engine Division Fall Technical Conference (Vol. 84034, p. V001T01A005). American Society of Mechanical Engineers, [10.1115/ICEF2020-2956](https://doi.org/10.1115/ICEF2020-2956).</span>
 
 
+Exhaust pulsating flow measurement and estimation
+------
+
 RQ: How to quantify exhaust pulsating flow enthalpy & exergy by using fast measurement techniques? In which approaches can we directly measure these flow variables in crank angle resolution?
 
 A sensitivity analysis-based method was applied to identify the significance of different flow parameters for the energy assessment of exhaust pulsation (2020). This study shows that the impacts of instantaneous flow velocity are important for exhaust energy quantification.
@@ -67,12 +70,12 @@ On-engine tests for measuring exhaust pulsation were completed in 2021 for a Sca
 
 The research project on marine engine aims to measure and analyze the pulsating exhaust flow of a Wärtsilä single-cylinder research engine. The experimental campaign was conducted at the Wärtsilä Sustainable Technology Hub in Vaasa, Finland and consisted of two stages:
 
-Stage 1: Measurement and Data Analysis A measurement section was designed and implemented, incorporating multiple traversable Pitot tubes and thin-wire thermocouples to measure the total pressure and temperature of the exhaust pulses. The collected pulse data was analyzed under different engine operation conditions.
+* Stage 1: Measurement and Data Analysis A measurement section was designed and implemented, incorporating multiple traversable Pitot tubes and thin-wire thermocouples to measure the total pressure and temperature of the exhaust pulses. The collected pulse data was analyzed under different engine operation conditions.
 marine_pipe
 
 <img src="https://beichuanh.github.io/beichuan/images/engine_8.png" alt="marine_flow_measure" style='width: 650px; height: auto;'>
 
 
-Stage 2: Flow Field Reconstruction In addition to basic flow measurements and data analysis, a machine learning approach using the Expectation-Maximization (EM) algorithm was employed to estimate the time-varying flow field as a Gaussian Mixture Model (GMM). Furthermore, the GMM was optimized for the best configuration using the Bayesian Information Criterion (BIC).
+* Stage 2: Flow Field Reconstruction In addition to basic flow measurements and data analysis, a machine learning approach using the Expectation-Maximization (EM) algorithm was employed to estimate the time-varying flow field as a Gaussian Mixture Model (GMM). Furthermore, the GMM was optimized for the best configuration using the Bayesian Information Criterion (BIC).
 
 <img src="https://beichuanh.github.io/beichuan/images/engine_9.png" alt="pulse_flow_field" style='width: 650px; height: auto;'>
