@@ -20,6 +20,15 @@ Conference Presentation
 * 2017 Transportation Research Board (TRB) 96th Annual Meeting, 8 - 12 January 2017 , Washington D.C. , United States.
 * 2016 Transportation Research Board (TRB) 95th Annual Meeting, 10 - 14 January 2016 , Washington D.C. , United States.
 
+Teaching Activity
+======
+Teacher and teaching assistant (2018-2023):
+
+* MF2047 Internal combustion engines, I : Fundamentals (Autumn 2019, 2020, 2021)
+* MF2066 Internal combustion engines Advanced course (Spring 2019, 2022)
+* MF2083 Internal combustion engines, II: Combution process, gas dynamics, and engine simulation (Spring 2021, 2022)
+* MF133X Degree project in mechatronics (Spring 2022, 2023)
+* MF224X Degree project in mechatronics, second cycle (Autumn 2022)
 
 Completed Courses
 ======
