@@ -21,6 +21,8 @@ Education
 * M.S. in Marine and Power Machinery Engineering, Wuhan University of Technology, 2018
 * B.S. in Energy Power System and Automation, Wuhan University of Technology, 2012
 
+Note: My Master study was conducted from 2012 to 2014, and I obtained my Master's degree in 2018 after completing my defense in the same year.
+
 Work Experience
 ======
 * 2023.10 - Present: Automotive Engineer / Consultant
