@@ -27,9 +27,10 @@ Based on an experiment on a single-cylinder research engine and GT-Power simulat
 
 
 <img src="https://beichuanh.github.io/beichuan/images/engine_1.png" alt="engine_lean" style='width: 650px; height: auto;'>
+<img src="https://beichuanh.github.io/beichuan/images/engine_2.png" alt="distribution_lean" style='width: 650px; height: auto;'>
 
-Related publication: Hong, B., Lius, A., Mahendar, S. K., Mihaescu, M., & Cronhjort, A. (2023). Energy and exergy characteristics of an ethanol-fueled heavy-duty SI engine at high-load operation using lean-burn combustion. Applied Thermal Engineering, 224, 120063, [10.1016/j.applthermaleng.2023.120063](https://doi.org/10.1016/j.applthermaleng.2023.120063).
-
+<span style="font-size: small;">Related publication: Hong, B., Lius, A., Mahendar, S. K., Mihaescu, M., & Cronhjort, A. (2023). Energy and exergy characteristics of an ethanol-fueled heavy-duty SI engine at high-load operation using lean-burn combustion. Applied Thermal Engineering, 224, 120063,</span>
+<a href="[https://doi.org/10.1115/ICEF2020-2956](https://doi.org/10.1016/j.applthermaleng.2023.120063)" class="small-link">10.1016/j.applthermaleng.2023.120063.</a>
 
 Energy and exergy distribution though engine systems
 ------
@@ -38,13 +39,10 @@ RQ: Where and to what extent do the engine exergy losses occur, associated with 
 
 Energy and exergy analyses were conducted on two engine systems: a Scania D13 truck engine and a Wärtsilä 31DF marine engine. These analyses aimed to quantify the available energy losses of various components. Moreover, engine losses are characterized and quantified as three types: combustion, heat dissipation, and gas exchange losses. The results of the truck engine analysis were reported in a CCGEx internal report in 2019, while the analysis of the marine engine was published in 2020 (ICEF 2020-2956).
 
-<span style="font-size: small;">Related publication: Hong, B., Mahendar, S. K., Hyvönen, J., Cronhjort, A., & Erlandsson, A. C. (2020, November). Quantification of losses and irreversibilities in a marine engine for gas and diesel fuelled operation using an exergy analysis approach. In Internal Combustion Engine Division Fall Technical Conference (Vol. 84034, p. V001T01A005). American Society of Mechanical Engineers</span>
-<a href="https://doi.org/10.1115/ICEF2020-2956" class="small-link">10.1115/ICEF2020-2956.</a>
-
-Related publication: Hong, B., Mahendar, S. K., Hyvönen, J., Cronhjort, A., & Erlandsson, A. C. (2020, November). Quantification of losses and irreversibilities in a marine engine for gas and diesel fuelled operation using an exergy analysis approach. In Internal Combustion Engine Division Fall Technical Conference (Vol. 84034, p. V001T01A005). American Society of Mechanical Engineers, [10.1115/ICEF2020-2956](https://doi.org/10.1115/ICEF2020-2956).
-
-<img src="https://beichuanh.github.io/beichuan/images/engine_2.png" alt="marine_photo" style='width: 650px; height: auto;'>
+<img src="https://beichuanh.github.io/beichuan/images/engine_2.png" alt="marine_engine" style='width: 650px; height: auto;'>
 <img src="https://beichuanh.github.io/beichuan/images/engine_3.png" alt="exergy_losses" style='width: 650px; height: auto;'>
+
+<span style="font-size: small;">Related publication: Hong, B., Mahendar, S. K., Hyvönen, J., Cronhjort, A., & Erlandsson, A. C. (2020, November). Quantification of losses and irreversibilities in a marine engine for gas and diesel fuelled operation using an exergy analysis approach. In Internal Combustion Engine Division Fall Technical Conference (Vol. 84034, p. V001T01A005). American Society of Mechanical Engineers</span>
 
 
 RQ: How to quantify exhaust pulsating flow enthalpy & exergy by using fast measurement techniques? In which approaches can we directly measure these flow variables in crank angle resolution?
