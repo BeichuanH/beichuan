@@ -41,7 +41,7 @@ My Licentiate study (2016-2018) at the Transport Planning division was for a pro
 
 <a href="https://beichuanh.github.io/beichuan/portfolio/portfolio-3/">Research Activities on Transport Science</a>
 
-The file of my self-introduction presentation on September 22, 2023: <a href="https://beichuanh.github.io/beichuan/files/presentation_ver4.pdf" download="beichuan_presentation_09222023.pdf">beichuan_presentation_09222023.pdf</a>
+The file of my self-introduction presentation on September 22, 2023: <a href="https://beichuanh.github.io/beichuan/files/presentation_ver4.pdf" download="beichuan_presentation_09222023.pdf">beichuan_intro.pdf</a>
 
 KTH-CCGEx Project
 ------
