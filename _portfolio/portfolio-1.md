@@ -30,7 +30,7 @@ Based on an experiment on a single-cylinder research engine and GT-Power simulat
 <img src="https://beichuanh.github.io/beichuan/images/engine_2.png" alt="distribution_lean" style='width: 650px; height: auto;'>
 
 <span style="font-size: small;">Related publication: Hong, B., Lius, A., Mahendar, S. K., Mihaescu, M., & Cronhjort, A. (2023). Energy and exergy characteristics of an ethanol-fueled heavy-duty SI engine at high-load operation using lean-burn combustion. Applied Thermal Engineering, 224, 120063,</span>
-<a href="[https://doi.org/10.1115/ICEF2020-2956](https://doi.org/10.1016/j.applthermaleng.2023.120063)" class="small-link">10.1016/j.applthermaleng.2023.120063.</a>
+<a href="[https://doi.org/10.1016/j.applthermaleng.2023.120063)" class="small-link">10.1016/j.applthermaleng.2023.120063.</a>
 
 Energy and exergy distribution though engine systems
 ------
@@ -43,7 +43,7 @@ Energy and exergy analyses were conducted on two engine systems: a Scania D13 tr
 <img src="https://beichuanh.github.io/beichuan/images/engine_3.png" alt="exergy_losses" style='width: 650px; height: auto;'>
 
 <span style="font-size: small;">Related publication: Hong, B., Mahendar, S. K., Hyvönen, J., Cronhjort, A., & Erlandsson, A. C. (2020, November). Quantification of losses and irreversibilities in a marine engine for gas and diesel fuelled operation using an exergy analysis approach. In Internal Combustion Engine Division Fall Technical Conference (Vol. 84034, p. V001T01A005). American Society of Mechanical Engineers</span>
-
+<a href="[https://doi.org/10.1115/ICEF2020-2956]" class="small-link">10.1115/ICEF2020-2956.</a>
 
 RQ: How to quantify exhaust pulsating flow enthalpy & exergy by using fast measurement techniques? In which approaches can we directly measure these flow variables in crank angle resolution?
 
