@@ -24,7 +24,6 @@ Conference Presentation
 Completed Courses
 ======
 Ph.D. courses (60 hp) at KTH Department of Engineering Design, ITM (2018-2023):
-----
 ### Engineering courses:
 * FMJ3116 Engineering Thermodynamics;
 * FSG3132 Gas Dynamics and Turbomachinery;
@@ -39,7 +38,6 @@ Ph.D. courses (60 hp) at KTH Department of Engineering Design, ITM (2018-2023):
 
 
 Licentiate courses (45 hp) at KTH Department of Civil and Architectural Engineering, ABE (2016-2018) :
-----
 ### Engineering courses:
 * FDD3359 Reinforcement Learning;
 * SD2231 Applied Vehicle Dynamics Control;
