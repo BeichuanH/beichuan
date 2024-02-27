@@ -1,5 +1,5 @@
 ---
-title: "Research activities on ICEs (2018-present)"
+title: "Research Activities on ICEs (2018-Present)"
 excerpt: "Combustion, flow measurement, and thermodynamics for engine applications. <br/><img src='https://beichuanh.github.io/beichuan/images/engine_cell.png' style='width: 550px; height: auto;'>"
 collection: portfolio
 ---
@@ -18,8 +18,7 @@ My research work on the internal combustion engines (ICEs) area was conducted at
 Ph.D. defense presentation file: <a href="https://beichuanh.github.io/beichuan/files/defense_ver02.pdf" download="beichuan_defense_ver02.pdf">defense_ver02</a>
 The link for doctorial thesis in KTH diva: [Exergy Evaluation of Engine Operations: Combustion Process to Exhaust Flow](https://kth.diva-portal.org/smash/get/diva2:1804474/FULLTEXT01.pdf).
 
-Combustion characterization and exhaust power assessment
-------
+### Combustion characterization and exhaust power assessment
 
 RQ: Compared with gasoline, how do the different combustion patterns using bio-fuels affect the energy and exergy losses during combustion and the working potential of exhaust?
 
@@ -32,8 +31,7 @@ Based on an experiment on a single-cylinder research engine and GT-Power simulat
 <span style="font-size: small;">Related publication: Hong, B., Lius, A., Mahendar, S. K., Mihaescu, M., & Cronhjort, A. (2023). Energy and exergy characteristics of an ethanol-fueled heavy-duty SI engine at high-load operation using lean-burn combustion. Applied Thermal Engineering, 224, 120063, [10.1016/j.applthermaleng.2023.120063](https://doi.org/10.1016/j.applthermaleng.2023.120063). </span>
 
 
-Energy and exergy distribution though engine systems
-------
+### Energy and exergy distribution though engine systems
 
 RQ: Where and to what extent do the engine exergy losses occur, associated with combustion, heat dissipation, and gas exchange?
 
@@ -45,8 +43,8 @@ Energy and exergy analyses were conducted on two engine systems: a Scania D13 tr
 <span style="font-size: small;">Related publication: Hong, B., Mahendar, S. K., Hyvönen, J., Cronhjort, A., & Erlandsson, A. C. (2020, November). Quantification of losses and irreversibilities in a marine engine for gas and diesel fuelled operation using an exergy analysis approach. In Internal Combustion Engine Division Fall Technical Conference (Vol. 84034, p. V001T01A005). American Society of Mechanical Engineers, [10.1115/ICEF2020-2956](https://doi.org/10.1115/ICEF2020-2956).</span>
 
 
-Exhaust pulsating flow measurement and estimation
-------
+### Exhaust pulsating flow measurement and estimation
+
 
 RQ: How to quantify exhaust pulsating flow enthalpy & exergy by using fast measurement techniques? In which approaches can we directly measure these flow variables in crank angle resolution?
 
