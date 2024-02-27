@@ -1,6 +1,6 @@
 ---
 title: "Research activities on ICEs (2018-present)"
-excerpt: "Combustion, flow measurement, and thermodynamics for engine applications. <br/><img src='/images/engine_cell.png'>"
+excerpt: "Combustion, flow measurement, and thermodynamics for engine applications. <br/><img src='https://beichuanh.github.io/beichuan/images/engine_cell.png'>"
 collection: portfolio
 ---
 
@@ -25,13 +25,6 @@ RQ: Compared with gasoline, how do the different combustion patterns using bio-f
 
 Based on an experiment on a single-cylinder research engine and GT-Power simulation, our study (2020.12 - 2021.03) contributes with a deeper understanding of the high-load performance of an ethanol-fueled heavy-duty SI engine using lean-burn combustion with excess air ratios up to 1.8. The engine’s thermal efficiency and combustion phasing are evaluated for knock limited operation and then compared to the theoretical optimum which is regardless of knock. Losses through heat transfer, exhaust flow, and incomplete combustion are quantified.
 
-![engine_cell](/images/engine_cell.png)
-
-<img src="https://beichuanh.github.io/beichuan/images/wheel_loader.png" alt="Wheel Loader">
-
-![battery](/images/battery.png)
-
-![wheel_loader](/images/wheel_loader.png)
 
 
 Related publication: Hong, B., Lius, A., Mahendar, S. K., Mihaescu, M., & Cronhjort, A. (2023). Energy and exergy characteristics of an ethanol-fueled heavy-duty SI engine at high-load operation using lean-burn combustion. Applied Thermal Engineering, 224, 120063.
