@@ -20,7 +20,7 @@ My doctoral studies (2018-2023) have focused on thermal analyses and optimizatio
 The doctoral work was mainly with [Dr. Andreas Cronhjort](www.kth.se/profile/qwerty), [Professor. Mihai Mihaescu](www.kth.se/profile/mihaescu), and [Professor. Anders Christiansen Erlandsson](scholar.google.se/citations?user=Y5rj2A0AAAAJ&hl=en).
 My research was conducted in the KTH-CCGEx center and was funded by the Swedish Energy Agency (Energimyndigheten), KTH-CCGEx center and its industrial partners. 
 
-From 2016 to 2018, I was a Licentiate student / research engineer at the KTH Transport Planning division within the project of “Optimal Construction Operations”, which was funded by Volvo Construction Equipment (Construction Climate Challenge). My work at the Transport Planning division was about the optimal control application in construction operations.
+From 2016 to 2018, I was a Licentiate student / research engineer at the [KTH Transport Planning division](https://www.byv.kth.se/en/avd/transportvetenskap/tet-1.790218) within the project of “Optimal Construction Operations”, which was funded by Volvo Construction Equipment (Construction Climate Challenge). My work at the Transport Planning division was about the optimal control application in construction operations.
 
 Before moving to Sweden, I obtained both bachelor and master degrees from Wuhan University of Technology, China. My bachelor degree was in Energy, Power Systems and Automation (2008-2012), and the master degree was in Marine and Power Machinery Engineering, specializing in Combustion Engines and Emission Control (2012-2014). Since 2014, I worked as a development engineer for 1.5 years at the Cummins East Asia Research & Development Center (Cummins EA R&D).
 
@@ -33,7 +33,7 @@ At KTH-CCGEx (2018-Present), my primary focus has been on the exergy analysis of
 
 <a href="https://beichuanh.github.io/beichuan/portfolio/portfolio-1/">Research Activities on ICEs</a>
 
-I have also been engaged in research and teaching at the Unit of Mechatronics (2021-2023). During this period, my work focused on embedded systems for motor control, system identification of battery models, and energy optimization of hybrid powertrain systems.
+During the period of 2021-2023, I was actively involved in research and teaching at the Unit of Mechatronics. The work involves embedded systems for motor control, system identification of battery models, and energy optimization of hybrid powertrain systems.
 
 <a href="https://beichuanh.github.io/beichuan/portfolio/portfolio-2/">Research Activities on Mechatronics</a>
 
