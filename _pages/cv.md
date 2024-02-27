@@ -21,7 +21,7 @@ Education
 * M.S. in Marine and Power Machinery Engineering, Wuhan University of Technology, 2018
 * B.S. in Energy Power System and Automation, Wuhan University of Technology, 2012
 
-Work experience
+Work Experience
 ======
 * 2023.10 - Present: Automotive Engineer / Consultant
   * Industrial & Digital Solutions, AFRY, Sweden
