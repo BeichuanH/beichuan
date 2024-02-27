@@ -1,6 +1,6 @@
 ---
 title: "Research activities on ICEs (2018-present)"
-excerpt: "Combustion, flow measurement, and thermodynamics for engine applications. <br/><img src='https://beichuanh.github.io/beichuan/images/engine_cell.png' style='width: 400px; height: auto;'>"
+excerpt: "Combustion, flow measurement, and thermodynamics for engine applications. <br/><img src='https://beichuanh.github.io/beichuan/images/engine_cell.png' style='width: 550px; height: auto;'>"
 collection: portfolio
 ---
 
