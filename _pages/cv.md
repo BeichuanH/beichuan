@@ -13,7 +13,7 @@ redirect_from:
 * Email at AFRY: beichuan.hong@afry.com
 * Phone: (+46) 070 0281 659
 * Address: Armégatan 32a, SE-171 71, Solna, Sweden
-* KTH webpage: ![https://www.kth.se/profile/beichuan](https://www.kth.se/profile/beichuan)
+* KTH webpage: [https://www.kth.se/profile/beichuan](https://www.kth.se/profile/beichuan)
 
 Education
 ======
@@ -42,37 +42,3 @@ Technical Strengths
 * Technical Skills: Energy Evaluation and Optimization of Dynamic Systems, Simulation, Modelling
 and Control, Embedded System, Data Analysis using ML algorithm
 * Engineering Software: MATLAB/Simulink, Python, SQL, GT-Power, SolidWorks, AVL-FIRE
-
-Completed Courses
-======
-Ph.D. courses (60 hp) at KTH Department of Engineering Design, ITM (2018-2023):
-
-### Engineering courses:
-
-* FMJ3116 Engineering Thermodynamics;
-* FSG3132 Gas Dynamics and Turbomachinery;
-* MJ2420 Combustion Theory and Applications;
-* FSM3001 Data-driven Methods in Engineering;
-* EL2320 Applied Estimation.
-
-### Research courses:
-
-* FDS3102 Writing Scientific Articles;
-* FMF3404 Research Questions and Literature Survey;
-* FMF3034 Introduction to Research Studies in Machine Design.
-
-
-Licentiate courses (45 hp) at KTH Department of Civil and Architectural Engineering, ABE (2016-2018) :
-
-### Engineering courses:
-
-* FDD3359 Reinforcement Learning;
-* SD2231 Applied Vehicle Dynamics Control;
-* EL2700 Model Predictive Control;
-* FSF3852 Optimal Control Theory.
-
- ### Research courses:
-
-* FAK3137 Theory of Science and Research Method, Technological and Natural Sciences;
-* FAH3460 Topics in Transport Science.
-
