@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Resume"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,6 +8,12 @@ redirect_from:
 ---
 
 {% include base_path %}
+
+Email at KTH: beichuan@kth.se
+Email at AFRY: beichuan.hong@afry.com
+Phone: (+46) 070 0281 659
+Address: Armégatan 32a, SE-171 71, Solna, Sweden
+KTH webpage: ![https://www.kth.se/profile/beichuan](https://www.kth.se/profile/beichuan)
 
 Education
 ======
@@ -23,16 +29,14 @@ Work experience
 * 2018 - 2023: Ph.D. Student
   * Unit of Mechatronics, KTH Royal Institute of Technology, Sweden
   * Supervisor: Andreas Cronhjort, Mihai Mihaescu, and Anders Christiansen Erlandsson
-  * Work Content: Engine and hybrid propulsion system modelling, Energy and exergy analysis
 
 * 2016 - 2018: Licentiate Student / Research Engineer
   * Transport Planning division, KTH Royal Institute of Technology, Sweden
   * Supervisor: Wilco Burghout, Erik Jenelius
-  * Work Content: Vehicle path optimization, Construction operations simulation, Emission model
 
-* 2014 - 2015: Development engineer/intern
+* 2014 - 2015: Development engineer / Intern
   * Advanced Engine & Technology Department, Cummins East Asian Research & Development Center, China
-  * Work Content: Engine simulation & calibration, Pneumatic boost system, Driving cycle analysis
+
 
 
 Technical Strengths
