@@ -51,13 +51,5 @@ In 2020, we participated in a magazine interview discussing the aforementioned p
 The CCGEx project update poster in May 2022: <a href="https://beichuanh.github.io/beichuan/files/beichuan_2022ccgex_poster03.pdf" download="beichuan_2022ccgex_poster03.pdf">beichuan_2022ccgex_poster03.pdf</a>
 
 
-Teaching Activity
-------
-Teacher and teaching assistant (2018-2023):
 
-* MF2047 Internal combustion engines, I : Fundamentals (Autumn 2019, 2020, 2021)
-* MF2066 Internal combustion engines Advanced course (Spring 2019, 2022)
-* MF2083 Internal combustion engines, II: Combution process, gas dynamics, and engine simulation (Spring 2021, 2022)
-* MF133X Degree project in mechatronics (Spring 2022, 2023)
-* MF224X Degree project in mechatronics, second cycle (Autumn 2022)
 
