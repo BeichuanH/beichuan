@@ -31,15 +31,15 @@ The reaserach activity during my study at KTH can be divided into three parts: c
 
 My mian work at KTH-CCGEx (2018-Present) focuses on exergy analysis of combustion systems and the exhaust pulsating flows. The study is related to biofuel combustion analysis, exhaust flow field measurement and estimation, as well as emission control strategies.
 
-<a href="[URL](https://beichuanh.github.io/beichuan/portfolio/portfolio-1/)">Research Activities on ICEs</a>
+<a href="https://beichuanh.github.io/beichuan/portfolio/portfolio-1/">Research Activities on ICEs</a>
 
 I have also been involved in research and teaching at the Unit of Mechatronics (2021-2023) concerning embedded systems for motor control, system identification of battery models, and energy optimization of hybrid powertrain systems.
 
-<a href="[URL](https://beichuanh.github.io/beichuan/portfolio/portfolio-2/)">Research Activities on Mechatronics</a>
+<a href="https://beichuanh.github.io/beichuan/portfolio/portfolio-2/">Research Activities on Mechatronics</a>
 
 My Licentiate study (2016-2018) at the Transport Planning division is for a project about the construction vehicles operations. 
 
-<a href="[URL](https://beichuanh.github.io/beichuan/portfolio/portfolio-3/)">Research Activities on Transport Science</a>
+<a href="https://beichuanh.github.io/beichuan/portfolio/portfolio-3/">Research Activities on Transport Science</a>
 
 CCGEx Project
 ------
