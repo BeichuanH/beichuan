@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hi there, I'm Beichuan!"
+title: "Hey there, I'm Beichuan!"
 author_profile: true
 redirect_from: 
   - /about/
