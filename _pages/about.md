@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 I am currently working as a consultant at the AFRY Södertälje office, specializing in the automotive and digital field. I possess expertise in modeling, control, and estimation for dynamic systems within the automotive sector.
-I hold a Ph.D. degree from the [Unit of Mechatronics](www.kth.se/mmk/mechatronics), [Department of Engineering Design](www.kth.se/mmk/department-of-machine-design-1.974324) & [Competence Center for Gas Exchange (CCGEx)](www.ccgex.kth.se) at KTH Royal Institute of Technology in Sweden (2023). 
+I hold a Ph.D. degree from the [Unit of Mechatronics](https://www.kth.se/mmk/mechatronics), [Department of Engineering Design](https://www.kth.se/mmk/department-of-machine-design-1.974324) & [Competence Center for Gas Exchange (CCGEx)](https://www.ccgex.kth.se) at KTH Royal Institute of Technology in Sweden (2023). 
 
 My research interests include the evaluation and optimization of energy and propulsion systems, alongside modeling and control applications. My experience covers combustion engines using renewable fuels, energy optimization for hybrid powertrain systems, discrete-event simulation for transport systems, system identification for mechatronics, and optimal control for autonomous construction vehicles.
 
@@ -17,7 +17,7 @@ Profession & Education
 ======
 
 My doctoral studies (2018-2023) have focused on thermal analyses and optimization of propulsion systems for marine and vehicle applications, with particular interest in combustion engines using renewable fuels and electrification approaches employing hybrid driveline systems. 
-The doctoral work was mainly with [Dr. Andreas Cronhjort](www.kth.se/profile/qwerty), [Professor. Mihai Mihaescu](www.kth.se/profile/mihaescu), and [Professor. Anders Christiansen Erlandsson](scholar.google.se/citations?user=Y5rj2A0AAAAJ&hl=en).
+The doctoral work was mainly with [Dr. Andreas Cronhjort](https://www.kth.se/profile/qwerty), [Professor. Mihai Mihaescu](https://www.kth.se/profile/mihaescu), and [Dr. Anders Christiansen Erlandsson](https://scholar.google.se/citations?user=Y5rj2A0AAAAJ&hl=en).
 My research was conducted in the KTH-CCGEx center and was funded by the Swedish Energy Agency (Energimyndigheten), KTH-CCGEx center and its industrial partners. 
 
 From 2016 to 2018, I was a Licentiate student / research engineer at the [KTH Transport Planning division](https://www.byv.kth.se/en/avd/transportvetenskap/tet-1.790218) within the project of “Optimal Construction Operations”, which was funded by Volvo Construction Equipment (Construction Climate Challenge). My work at the Transport Planning division was about the optimal control application in construction operations.
