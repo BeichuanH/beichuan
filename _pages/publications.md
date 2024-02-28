@@ -22,7 +22,7 @@ Conference Presentation
 Completed Courses
 ======
 
-<img src="https://beichuanh.github.io/beichuan/images/photo_kth.jpg" alt="photo_kth" style="width: 350px; height: auto; float: right;">
+<img src="https://beichuanh.github.io/beichuan/images/photo_kth.jpg" alt="photo_kth" style="width: 400px; height: auto; float: right;">
 
 Ph.D. courses (60 hp) at KTH Department of Engineering Design, ITM (2018-2023):
 <!--  **Engineering courses:** -->
