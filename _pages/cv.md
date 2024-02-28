@@ -9,8 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-
-<img src="https://beichuanh.github.io/beichuan/images/photo_1.png" alt="photo_1" style='width: 350px; height: auto; float: right;'>
+<img src="https://beichuanh.github.io/beichuan/images/photo_1.png" alt="photo_1" style="width: 350px; height: auto; float: right;">
 
 * Email at KTH: beichuan@kth.se
 * Email at AFRY: beichuan.hong@afry.com
