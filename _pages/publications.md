@@ -9,7 +9,7 @@ author_profile: true
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
 
-<img src="https://beichuanh.github.io/beichuan/images/photo_kth.jpg" alt="photo_kth" style="width: 300px; height: auto; float: right;">
+<p style="margin-bottom: 20px;"> </p>
 
 Conference Presentation
 ======
@@ -21,6 +21,9 @@ Conference Presentation
 
 Completed Courses
 ======
+
+<img src="https://beichuanh.github.io/beichuan/images/photo_kth.jpg" alt="photo_kth" style="width: 350px; height: auto; float: right;">
+
 Ph.D. courses (60 hp) at KTH Department of Engineering Design, ITM (2018-2023):
 <!--  **Engineering courses:** -->
 * FMJ3116 Engineering Thermodynamics
