@@ -20,6 +20,7 @@ The research investigates optimal control methods aimed at minimizing fuel consu
 <img src="https://beichuanh.github.io/beichuan/images/wl_1.png" alt="autonomous_driving" style='width: 650px; height: auto;'>
 
 <span style="font-size: small;">Related publications: Path planning for wheel loaders: A discrete optimization approach, in 2017 IEEE 20th International Conference on Intelligent Transportation Systems (ITSC), IEEE, 2017, pp. 1–6, [10.1109/ITSC.2017.8317882](https://doi.org/10.1109/ITSC.2017.8317882).</span>
+
 <span style="font-size: small;">Path optimization for a wheel loader considering construction site terrain, in 2018 IEEE Intelligent Vehicles Symposium (IV), IEEE, 2018, pp. 098–2103, [10.1109/IVS.2018.8500447](https://doi.org/10.1109/IVS.2018.8500447).</span>
 
 ### Data-driven emission modelling for construction vehicles
@@ -42,4 +43,5 @@ A discrete-event simulation platform is developed, integrating the construction 
 <img src="https://beichuanh.github.io/beichuan/images/wl_6.png" alt="discrete_events" style='width: 550px; height: auto;'>
 
 <span style="font-size: small;">Related publications: Related publication: quantification of emissions for non-road machinery in earthwork: Modeling and simulation approaches, in Transportation Research Board (TRB) 96th Annual Meeting, Transportation Research Board (TRB), 2017. [TRB Link](https://trid.trb.org/view/1438723)</span>
+
 <span style="font-size: small;">Assessment of emissions and energy consumption for construction machinery in earthwork activities by incorporating real-world measurement and discrete-event simulation, Sustainability, 2022, [10.3390/su14095326](https://doi.org/10.3390/su14095326).</span>
