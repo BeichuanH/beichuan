@@ -9,7 +9,7 @@ author_profile: true
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
 
-<p style="margin-bottom: 20px;"> </p>
+<img src="https://beichuanh.github.io/beichuan/images/photo_kth.jpg" alt="photo_kth" style="width: 300px; height: auto; float: right;">
 
 Conference Presentation
 ======
