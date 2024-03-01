@@ -31,7 +31,7 @@ Work Experience
   * Industrial & Digital Solutions, AFRY, Sweden
 
 * 2018 - 2023: Ph.D. Student
-  * Unit of Mechatronics, KTH Royal Institute of Technology, Sweden
+  * Unit of Mechatronics & CCGEx, KTH Royal Institute of Technology, Sweden
   * Supervisor: Andreas Cronhjort, Mihai Mihaescu, and Anders Christiansen Erlandsson
 
 * 2016 - 2018: Licentiate Student / Research Engineer
