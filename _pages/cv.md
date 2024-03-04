@@ -19,7 +19,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Engineering Design, KTH Royal Institute of Technology, 2023
+* Ph.D. in Machine Design, KTH Royal Institute of Technology, 2023
 * M.S. in Marine and Power Machinery Engineering, Wuhan University of Technology, 2018
 * B.S. in Energy Power System and Automation, Wuhan University of Technology, 2012
 
@@ -31,7 +31,7 @@ Work Experience
   * Industrial & Digital Solutions, AFRY, Sweden
 
 * 2018 - 2023: Ph.D. Student
-  * Unit of Mechatronics & CCGEx, KTH Royal Institute of Technology, Sweden
+  * Unit of Mechatronics, KTH Royal Institute of Technology, Sweden
   * Supervisor: Andreas Cronhjort, Mihai Mihaescu, and Anders Christiansen Erlandsson
 
 * 2016 - 2018: Licentiate Student / Research Engineer
@@ -43,6 +43,6 @@ Work Experience
 
 Technical Strengths
 ======
-* Technical Skills: Energy Evaluation and Optimization of Dynamic Systems, Simulation, Modelling
-and Control, Embedded System, Data Analysis using ML algorithm
+* Technical Skills: Energy Systems Evaluation and Optimization, Modelling
+and Control, Powertrain Simulation, Embedded System, Data Analysis using ML algorithms
 * Engineering Software: MATLAB/Simulink, Python, SQL, GT-Power, SolidWorks, AVL-FIRE
