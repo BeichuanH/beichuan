@@ -19,6 +19,13 @@ Conference Presentation
 * 2017 Transportation Research Board (TRB) 96th Annual Meeting, 8 - 12 January 2017 , Washington D.C. , United States.
 * 2016 Transportation Research Board (TRB) 95th Annual Meeting, 10 - 14 January 2016 , Washington D.C. , United States.
 
+Academic Visits and Seminar Participation
+======
+* 2022 Digital Innovation Hubs and Collaborative Platform for Cyber-Physical Systems (HUBCAP), Politecnico di Milano, Milan, Italy.
+* 2022 Swedish Electromobility Centre Summer School, Lund University, Sweden.
+* 2018 Integrated Transport Research Lab Summer School and Seminars, KTH Royal Institute of Technology, Stockholm, Sweden.
+* 2016 Volvo Construction Climate Challenge (CCC) Innovation Conference XPLORATION FORUM 2016, Eskilstuna, Sweden.
+
 Completed Courses
 ======
 
