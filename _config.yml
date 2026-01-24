@@ -24,11 +24,11 @@ author:
   avatar           : "beichuan.png"
   name             : "Beichuan Hong"
   pronouns         : # example: "she/her"  
-  bio              : "Automotive engineer at AFRY, PhD from KTH"
-  location         : "Solna, Stockholm County, Sweden"
-  employer         : "KTH Royal Institute of Technology"
+  bio              : "Simulation engineer at Volvo Cars, PhD from KTH"
+  location         : "Bräcke Östergårds, Göteborg, Sweden"
+  employer         : #"Volvo Cars"
   uri              : # URL
-  email            : "beichuan@kth.se" 
+  email            : "hongbeichuan@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile

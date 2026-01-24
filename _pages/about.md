@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently working as a consultant at the AFRY Södertälje office, specializing in the automotive and digital fields. I possess expertise in modeling, control, and estimation for dynamic systems within the automotive sector.
+I am currently a Simulation Engineer at Volvo Cars, specializing in battery cell analysis and modelling. I possess expertise in the optimization, control, and estimation of dynamic systems within the automotive sector.
 I hold a Ph.D. degree from the KTH Royal Institute of Technology in Sweden (2023). During the period of 2018-2023, I conducted my doctoral studies at the [Unit of Mechatronics](https://www.kth.se/mmk/mechatronics), [Department of Engineering Design](https://www.kth.se/mmk/department-of-machine-design-1.974324) & [Competence Center for Gas Exchange (CCGEx)](https://www.ccgex.kth.se).
 
 My research interests include the evaluation and optimization of energy and propulsion systems, alongside modeling and control applications. My experience covers combustion engines using renewable fuels, energy optimization for hybrid powertrain systems, discrete-event simulation for transport systems, system identification for mechatronics, and optimal control for autonomous construction vehicles.
