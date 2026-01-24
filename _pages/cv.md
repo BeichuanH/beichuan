@@ -11,10 +11,10 @@ redirect_from:
 
 <img src="https://beichuanh.github.io/beichuan/images/photo_1.jpg" alt="photo_1" style="width: 350px; height: auto; float: right;">
 
-* Email at KTH: beichuan@kth.se
-* Email at AFRY: beichuan.hong@afry.com
 * Phone: (+46) 070 0281 659
-* Address: Armégatan 32a, SE-171 71, Solna, Sweden
+* Address: Bräcke Östergårds Väg 1D, Göteborg, Sweden
+* Email at Volo Cars: beichuan.hong@volvocars.com
+* Email at KTH: beichuan@kth.se
 * KTH webpage: [https://www.kth.se/profile/beichuan](https://www.kth.se/profile/beichuan)
 
 Education
@@ -27,7 +27,10 @@ Note: My Master study was conducted from 2012 to 2014, and I obtained my Master'
 
 Work Experience
 ======
-* 2023.10 - Present: Automotive Engineer / Consultant
+* 2025.10 - Present: Battery CAE Engineer 
+  * Propulsion & Energy, Volvo Cars, Sweden
+
+* 2023.10 - 2025.10 / Consultant
   * Industrial & Digital Solutions, AFRY, Sweden
 
 * 2018 - 2023: Ph.D. Student
