@@ -19,7 +19,6 @@ redirect_from:
 Education
 ======
 * Ph.D. in Machine Design, KTH Royal Institute of Technology, 2023
-  * KTH webpage: [https://www.kth.se/profile/beichuan](https://www.kth.se/profile/beichuan)
 * M.S. in Marine and Power Machinery Engineering, Wuhan University of Technology, 2018
 * B.S. in Energy Power System and Automation, Wuhan University of Technology, 2012
 
@@ -36,6 +35,7 @@ Work Experience
 * 2018 - 2023: Ph.D. Student
   * Unit of Mechatronics, KTH Royal Institute of Technology, Sweden
   * Supervisor: Andreas Cronhjort, Mihai Mihaescu, and Anders Christiansen Erlandsson
+  * KTH webpage: [https://www.kth.se/profile/beichuan](https://www.kth.se/profile/beichuan)
 
 * 2016 - 2018: Licentiate Student / Research Engineer
   * Transport Planning division, KTH Royal Institute of Technology, Sweden
