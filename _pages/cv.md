@@ -12,14 +12,14 @@ redirect_from:
 <img src="https://beichuanh.github.io/beichuan/images/photo_1.jpg" alt="photo_1" style="width: 350px; height: auto; float: right;">
 
 * Phone: (+46) 070 0281 659
+* Email: hongbeichuan@gmail.com
 * Address: Bräcke Östergårds Väg 1D, Göteborg, Sweden
-* Email at Volo Cars: beichuan.hong@volvocars.com
-* Email at KTH: beichuan@kth.se
-* KTH webpage: [https://www.kth.se/profile/beichuan](https://www.kth.se/profile/beichuan)
+
 
 Education
 ======
 * Ph.D. in Machine Design, KTH Royal Institute of Technology, 2023
+  * KTH webpage: [https://www.kth.se/profile/beichuan](https://www.kth.se/profile/beichuan)
 * M.S. in Marine and Power Machinery Engineering, Wuhan University of Technology, 2018
 * B.S. in Energy Power System and Automation, Wuhan University of Technology, 2012
 
