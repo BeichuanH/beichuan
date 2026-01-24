@@ -11,8 +11,9 @@ redirect_from:
 
 <img src="https://beichuanh.github.io/beichuan/images/photo_1.jpg" alt="photo_1" style="width: 350px; height: auto; float: right;">
 
-* Phone: (+46) 070 0281 659
+
 * Email: hongbeichuan@gmail.com
+* Phone: (+46) 070 0281 659
 * Address: Bräcke Östergårds Väg 1D, Göteborg, Sweden
 
 

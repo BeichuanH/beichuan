@@ -24,10 +24,10 @@ author:
   avatar           : "beichuan.png"
   name             : "Beichuan Hong"
   pronouns         : # example: "she/her"  
-  bio              : "Simulation engineer at Volvo Cars, PhD from KTH Royal Institute of Technology"
+  bio              : "Simulation engineer at Volvo Cars"
   location         : "Göteborg, Sweden"
-  employer         : #"KTH Royal Institute of Technology"
-  uri              : # URL
+  employer         : "PhD from KTH Royal Institute of Technology"
+  uri              : # URL 
   email            : "hongbeichuan@gmail.com" 
 
   # Academic websites
