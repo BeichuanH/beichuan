@@ -1,52 +1,68 @@
 ---
 layout: archive
-title: "Contact"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+<div class="profile-intro">
+  <p>
+    Battery CAE engineer with a research background in energy systems, modelling and control,
+    powertrain simulation, and data-driven engineering.
+  </p>
+  <p>
+    <a href="mailto:{{ site.author.email }}">{{ site.author.email }}</a> · Gothenburg, Sweden
+  </p>
+</div>
 
-<img src="https://beichuanh.github.io/beichuan/images/photo_1.jpg" alt="photo_1" style="width: 350px; height: auto; float: right;">
+Experience
+======
 
+**Battery CAE Engineer · Volvo Cars**<br>
+*Propulsion & Energy, Sweden · October 2025–present*
 
-* Email: hongbeichuan@gmail.com
-* Phone: (+46) 070 0281 659
-* Address: Bräcke Östergårds Väg 1D, Göteborg, Sweden
+Battery-cell analysis and modelling for automotive propulsion and energy systems.
 
+**Engineering Consultant · AFRY**<br>
+*Industrial & Digital Solutions, Sweden · October 2023–October 2025*
+
+Engineering assignments in the automotive sector.
+
+**Ph.D. Researcher · KTH Royal Institute of Technology**<br>
+*Unit of Mechatronics and CCGEx, Sweden · 2018–2023*
+
+Research in thermal systems, combustion, gas exchange, battery models, mechatronics, and energy optimization.
+
+**Research Engineer · KTH Royal Institute of Technology**<br>
+*Transport Planning Division, Sweden · 2016–2018*
+
+Optimal control, simulation, and emission modelling for construction operations and autonomous machines.
+
+**Development Engineer / Intern · Cummins East Asia R&D Center**<br>
+*Advanced Engine & Technology Department, China · 2014–2015*
 
 Education
 ======
-* Ph.D. in Machine Design, KTH Royal Institute of Technology, 2023
-* M.S. in Marine and Power Machinery Engineering, Wuhan University of Technology, 2018
-* B.S. in Energy Power System and Automation, Wuhan University of Technology, 2012
 
-Note: My Master study was conducted from 2012 to 2014, and I obtained my Master's degree in 2018 after completing my defense in the same year.
+* **Ph.D. in Machine Design**, KTH Royal Institute of Technology, 2023
+* **M.S. in Marine and Power Machinery Engineering**, Wuhan University of Technology, 2018
+* **B.S. in Energy, Power Systems and Automation**, Wuhan University of Technology, 2012
 
-Work Experience
+Technical Profile
 ======
-* 2025.10 - Present: Battery CAE Engineer 
-  * Propulsion & Energy, Volvo Cars, Sweden
 
-* 2023.10 - 2025.10 / Consultant
-  * Industrial & Digital Solutions, AFRY, Sweden
+**Methods**
 
-* 2018 - 2023: Ph.D. Student
-  * Unit of Mechatronics, KTH Royal Institute of Technology, Sweden
-  * Supervisor: Andreas Cronhjort, Mihai Mihaescu, and Anders Christiansen Erlandsson
-  * KTH webpage: [https://www.kth.se/profile/beichuan](https://www.kth.se/profile/beichuan)
+Energy-system evaluation and optimization; physical modelling; system identification;
+state estimation; optimal control; powertrain simulation; machine learning and data analysis.
 
-* 2016 - 2018: Licentiate Student / Research Engineer
-  * Transport Planning division, KTH Royal Institute of Technology, Sweden
-  * Supervisor: Wilco Burghout, Erik Jenelius
+**Software**
 
-* 2014 - 2015: Development engineer / Intern
-  * Advanced Engine & Technology Department, Cummins East Asian Research & Development Center, China
+MATLAB/Simulink, Python, SQL, GT-Power, SolidWorks, and AVL FIRE.
 
-Technical Strengths
-======
-* Technical Skills: Energy Systems Evaluation and Optimization, Modelling
-and Control, Powertrain Simulation, Embedded System, Data Analysis using ML algorithms
-* Engineering Software: MATLAB/Simulink, Python, SQL, GT-Power, SolidWorks, AVL-FIRE
+**Application areas**
+
+Lithium-ion batteries, electrified powertrains, combustion engines, gas exchange,
+autonomous construction machines, and transport operations.

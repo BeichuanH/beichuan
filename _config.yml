@@ -8,13 +8,13 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Beichuan's homepage"
+title                    : "Beichuan Hong"
 title_separator          : "-"
 name                     : &name "Beichuan Hong"
-description              : &description "personal description"
-url                      : "https://beichuanH.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : &description "Battery CAE engineer and energy-systems researcher working across modelling, control, and simulation."
+url                      : "https://beichuanh.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/beichuan" # the subpath of your site, e.g. "/blog"
-repository               : "beichuanH/beichuanH.github.io/beichuan/"
+repository               : "BeichuanH/beichuan"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -24,9 +24,9 @@ author:
   avatar           : "beichuan.png"
   name             : "Beichuan Hong"
   pronouns         : # example: "she/her"  
-  bio              : "Simulation engineer at Volvo Cars, PhD from KTH "
-  location         : "Göteborg, Sweden"
-  employer         : "KTH Royal Institute of Technology"
+  bio              : "Battery CAE engineer working across modelling, control, and energy systems."
+  location         : "Gothenburg, Sweden"
+  employer         : "Volvo Cars"
   uri              : # URL 
   email            : "hongbeichuan@gmail.com" 
 
@@ -278,7 +278,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Europe/Stockholm # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins

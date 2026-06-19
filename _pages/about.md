@@ -1,56 +1,131 @@
 ---
+layout: home
 permalink: /
-title: "Hey there, I'm Beichuan!"
-author_profile: true
-redirect_from: 
+title: "Beichuan Hong"
+excerpt: "Battery CAE engineer and energy-systems researcher working across modelling, control, and simulation."
+author_profile: false
+redirect_from:
   - /about/
   - /about.html
 ---
 
-I am currently a Simulation Engineer at Volvo Cars, specializing in battery cell analysis and modelling. I possess expertise in the optimization, control, and estimation of dynamic systems within the automotive sector.
+<section class="home-hero" aria-labelledby="home-title">
+  <div>
+    <p class="home-eyebrow">Battery CAE · Energy systems · Modelling &amp; control</p>
+    <h1 id="home-title" class="home-title">Engineering energy systems from data to decisions.</h1>
+    <p class="home-lead">
+      I am a Battery CAE Engineer at Volvo Cars and hold a Ph.D. from KTH Royal Institute of Technology.
+      My work connects physical modelling, system identification, simulation, and optimization for
+      automotive and energy applications.
+    </p>
+    <div class="home-actions">
+      <a class="academic-button" href="{{ site.baseurl }}/portfolio/">Explore research</a>
+      <a class="academic-button academic-button--secondary" href="{{ site.baseurl }}/cv/">View CV</a>
+      <a class="academic-button academic-button--secondary" href="{{ site.author.googlescholar }}">Google Scholar</a>
+    </div>
+  </div>
+  <div class="home-portrait">
+    <img src="{{ site.baseurl }}/images/beichuan.png" alt="Portrait of Beichuan Hong">
+  </div>
+</section>
 
-I hold a Ph.D. degree from the KTH Royal Institute of Technology in Sweden (2023). During the period of 2018-2023, I conducted my doctoral studies at the [Unit of Mechatronics](https://www.kth.se/mmk/mechatronics), [Department of Engineering Design](https://www.kth.se/mmk/department-of-machine-design-1.974324) & [Competence Center for Gas Exchange (CCGEx)](https://www.ccgex.kth.se).
+<section class="home-facts" aria-label="Current profile">
+  <div class="home-fact">
+    <span>Current role</span>
+    <strong>Battery CAE Engineer · Volvo Cars</strong>
+  </div>
+  <div class="home-fact">
+    <span>Academic background</span>
+    <strong>Ph.D. in Machine Design · KTH</strong>
+  </div>
+  <div class="home-fact">
+    <span>Based in</span>
+    <strong>Gothenburg, Sweden</strong>
+  </div>
+</section>
 
-My research interests include the evaluation and optimization of energy and propulsion systems, alongside modeling and control applications. My experience covers combustion engines using renewable fuels, energy optimization for hybrid powertrain systems, discrete-event simulation for transport systems, system identification for mechatronics, and optimal control for autonomous construction vehicles.
+<section class="home-section" aria-labelledby="research-heading">
+  <div class="home-section-heading">
+    <div>
+      <p class="section-kicker">Research themes</p>
+      <h2 id="research-heading">Work across machines, energy, and intelligence.</h2>
+    </div>
+    <p>
+      My research has moved from construction operations and combustion systems toward
+      electrified powertrains and battery modelling, with a consistent focus on making
+      complex systems measurable, explainable, and optimizable.
+    </p>
+  </div>
 
+  <div class="research-grid">
+    <a class="research-card" href="{{ site.baseurl }}/portfolio/portfolio-1/">
+      <span class="research-index">01 · THERMAL SYSTEMS</span>
+      <h3>Combustion &amp; gas exchange</h3>
+      <p>Energy and exergy analysis, renewable-fuel combustion, and crank-angle-resolved exhaust-flow measurement.</p>
+    </a>
+    <a class="research-card" href="{{ site.baseurl }}/portfolio/portfolio-2/">
+      <span class="research-index">02 · ELECTRIFICATION</span>
+      <h3>Battery &amp; mechatronic systems</h3>
+      <p>Battery models, parameter estimation, state estimation, motor control, and hybrid-powertrain optimization.</p>
+    </a>
+    <a class="research-card" href="{{ site.baseurl }}/portfolio/portfolio-3/">
+      <span class="research-index">03 · OPERATIONS</span>
+      <h3>Transport &amp; autonomous machines</h3>
+      <p>Optimal control, motion planning, emission modelling, and discrete-event simulation for construction systems.</p>
+    </a>
+  </div>
+</section>
 
-Profession & Education
-======
+<section class="home-section">
+  <div class="trajectory">
+    <div class="trajectory-intro">
+      <p class="section-kicker">Trajectory</p>
+      <h2>Research depth, applied in industry.</h2>
+      <p>
+        A career spanning industrial R&amp;D, two KTH research environments, engineering consultancy,
+        and vehicle development.
+      </p>
+    </div>
+    <ol class="trajectory-list">
+      <li class="trajectory-item">
+        <time>2025—Now</time>
+        <div>
+          <h3>Battery CAE Engineer · Volvo Cars</h3>
+          <p>Battery-cell analysis and modelling for propulsion and energy systems.</p>
+        </div>
+      </li>
+      <li class="trajectory-item">
+        <time>2023—2025</time>
+        <div>
+          <h3>Engineering Consultant · AFRY</h3>
+          <p>Industrial and digital engineering assignments in the automotive sector.</p>
+        </div>
+      </li>
+      <li class="trajectory-item">
+        <time>2018—2023</time>
+        <div>
+          <h3>Doctoral Researcher · KTH</h3>
+          <p>Machine design, mechatronics, combustion systems, and energy optimization.</p>
+        </div>
+      </li>
+      <li class="trajectory-item">
+        <time>2016—2018</time>
+        <div>
+          <h3>Research Engineer · KTH Transport Science</h3>
+          <p>Optimal construction operations, autonomous machines, and emission modelling.</p>
+        </div>
+      </li>
+    </ol>
+  </div>
+</section>
 
-My doctoral studies (2018-2023) have focused on thermal analyses and optimization of propulsion systems for marine and vehicle applications, with particular interest in combustion engines using renewable fuels and electrification approaches employing hybrid driveline systems. 
-The doctoral work was mainly with [Dr. Andreas Cronhjort](https://www.kth.se/profile/qwerty), [Professor. Mihai Mihaescu](https://www.kth.se/profile/mihaescu), and [Dr. Anders Christiansen Erlandsson](https://scholar.google.se/citations?user=Y5rj2A0AAAAJ&hl=en).
-My research was conducted in the KTH-CCGEx center and was funded by the Swedish Energy Agency (Energimyndigheten), KTH-CCGEx center and its industrial partners. 
-
-From 2016 to 2018, I was a Licentiate student/research engineer at the [KTH Transport Planning division](https://www.byv.kth.se/en/avd/transportvetenskap/tet-1.790218) within the project of “Optimal Construction Operations”, which was funded by Volvo Construction Equipment (Construction Climate Challenge). My work at the Transport Planning division was about the optimal control application in construction operations.
-
-Before moving to Sweden, I obtained both bachelor and master degrees from Wuhan University of Technology, China. My bachelor degree was in Energy, Power Systems and Automation (2008-2012), and the master degree was in Marine and Power Machinery Engineering, specializing in Combustion Engines and Emission Control (2012-2014). Since 2014, I worked as a development engineer for 1.5 years at the Cummins East Asia Research & Development Center (Cummins EA R&D).
-
-Reaserach Activity & Work Experiences
-------
-
-My reaserach activity at KTH can be divided into three areas: combustion engines using renewable fuels, mechatronics related to vehicle electrification, and optimization of construction operations.
-
-At KTH-CCGEx (2018-Present), my primary focus has been on the exergy analysis of combustion systems and exhaust pulsating flows. This study involves analyzing biofuel combustion, measuring and estimating exhaust flow fields, and developing emission control strategies.
-
-<a href="https://beichuanh.github.io/beichuan/portfolio/portfolio-1/">Research Activities on ICEs</a>
-
-During the period of 2021-2023, I was actively involved in research and teaching at the Unit of Mechatronics. The work involves embedded systems for motor control, system identification of battery models, and energy optimization of hybrid powertrain systems.
-
-<a href="https://beichuanh.github.io/beichuan/portfolio/portfolio-2/">Research Activities on Mechatronics</a>
-
-My Licentiate study (2016-2018) at the Transport Planning division was for a project focusing on construction vehicle operations.
-
-<a href="https://beichuanh.github.io/beichuan/portfolio/portfolio-3/">Research Activities on Transport Science</a>
-
-The file of my self-introduction presentation on September 22, 2023: <a href="https://beichuanh.github.io/beichuan/files/presentation_ver4.pdf" download="beichuan_presentation_09222023.pdf">beichuan_intro.pdf</a>
-
-KTH-CCGEx Project
-------
-One of the collaborative projects with industrial partners at KTH-CCGEx was titled "Exergy analysis for high-efficiency gas exchange systems." This project was conducted in cooperation with Wärtsilä Finland Oy.
-In 2020, we participated in a magazine interview discussing the aforementioned project and its implications.: [exergy study takes a practical approach to dual-fuel engine performance](https://www.motorship.com/exergy-study-takes-practical-approach-to-dual-fuel-engine-performance/1370852.article). 
-
-The CCGEx project update poster in May 2022: <a href="https://beichuanh.github.io/beichuan/files/beichuan_2022ccgex_poster03.pdf" download="beichuan_2022ccgex_poster03.pdf">beichuan_2022ccgex_poster03.pdf</a>
-
-
-
-
+<section class="home-section">
+  <div class="home-closing">
+    <h2>Interested in the technical details?</h2>
+    <p>
+      Browse the <a href="{{ site.baseurl }}/portfolio/">research archive</a>,
+      review my <a href="{{ site.baseurl }}/publications/">academic profile</a>,
+      or contact me at <a href="mailto:{{ site.author.email }}">{{ site.author.email }}</a>.
+    </p>
+  </div>
+</section>
