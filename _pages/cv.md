@@ -7,58 +7,53 @@ redirect_from:
   - /resume
 ---
 
+<img src="https://beichuanh.github.io/beichuan/images/photo_1.jpg" alt="photo_1" style="width: 350px; height: auto; float: right;">
+
+
 <div class="profile-intro">
   <p>
-    <a href="mailto:{{ site.author.email }}">{{ site.author.email }}</a> · Gothenburg, Sweden
+    * Phone: (+46) 070 0281 659
+    * Email: hongbeichuan@gmail.com
+    * Address: Skådemyntsgatan 14, 41484 Göteborg, Sweden
   </p>
 </div>
 
-Experience
+Work Experience
 ======
 
 **Battery CAE Engineer · Volvo Cars**<br>
 *Propulsion & Energy, Sweden · October 2025–present*
 
-Battery-cell analysis and modelling for automotive propulsion and energy systems.
-
-**Engineering Consultant · AFRY**<br>
+**Consultant · AFRY**<br>
 *Industrial & Digital Solutions, Sweden · October 2023–October 2025*
 
-Engineering assignments in the automotive sector.
+**Ph.D. Student · KTH Royal Institute of Technology**<br>
+*Unit of Mechatronics, Sweden · 2018–2023*
 
-**Ph.D. Researcher · KTH Royal Institute of Technology**<br>
-*Unit of Mechatronics and CCGEx, Sweden · 2018–2023*
+Supervisors: Andreas Cronhjort, Mihai Mihaescu, and Anders Christiansen Erlandsson<br>
+[KTH profile](https://www.kth.se/profile/beichuan)
 
-Research in thermal systems, combustion, gas exchange, battery models, mechatronics, and energy optimization.
+**Licentiate Student / Research Engineer · KTH Royal Institute of Technology**<br>
+*Transport Planning division, Sweden · 2016–2018*
 
-**Research Engineer · KTH Royal Institute of Technology**<br>
-*Transport Planning Division, Sweden · 2016–2018*
-
-Optimal control, simulation, and emission modelling for construction operations and autonomous machines.
+Supervisors: Wilco Burghout and Erik Jenelius
 
 **Development Engineer / Intern · Cummins East Asia R&D Center**<br>
 *Advanced Engine & Technology Department, China · 2014–2015*
 
+
+
 Education
 ======
+* Ph.D. in Machine Design, KTH Royal Institute of Technology, 2023
+  * KTH webpage: [https://www.kth.se/profile/beichuan](https://www.kth.se/profile/beichuan)
+* M.S. in Marine and Power Machinery Engineering, Wuhan University of Technology, 2014
+* B.S. in Energy Power System and Automation, Wuhan University of Technology, 2012
 
-* **Ph.D. in Machine Design**, KTH Royal Institute of Technology, 2023
-* **M.S. in Marine and Power Machinery Engineering**, Wuhan University of Technology, 2018
-* **B.S. in Energy, Power Systems and Automation**, Wuhan University of Technology, 2012
+Note: My Master study was conducted from 2012 to 2014, and I obtained my Master's degree in 2018 after completing my defense in the same year.
 
-Technical Profile
+Technical Strengths
 ======
-
-**Methods**
-
-Energy-system evaluation and optimization; physical modelling; system identification;
-state estimation; optimal control; powertrain simulation; machine learning and data analysis.
-
-**Software**
-
-MATLAB/Simulink, Python, SQL, GT-Power, SolidWorks, and AVL FIRE.
-
-**Application areas**
-
-Lithium-ion batteries, electrified powertrains, combustion engines, gas exchange,
-autonomous construction machines, and transport operations.
+* Technical Skills: Energy Systems Evaluation and Optimization, Modelling
+and Control, Powertrain Simulation, Embedded System, Data Analysis using ML algorithms
+* Engineering Software: MATLAB/Simulink, Python, SQL, GT-Power, SolidWorks, AVL-FIRE
