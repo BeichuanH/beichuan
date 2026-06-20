@@ -2,18 +2,16 @@
 layout: single
 permalink: /
 title: "About"
-excerpt: "Battery CAE engineer with a research background in energy systems, modelling, and control."
+excerpt: "Battery CAE engineer."
 author_profile: true
 redirect_from:
   - /about/
   - /about.html
 ---
 
-I am a Battery CAE Engineer at Volvo Cars. I received my Ph.D. from KTH Royal Institute of Technology in 2023 and previously worked as an engineering consultant at AFRY. My background combines academic research with engineering work in the automotive and energy fields.
+I am a Battery CAE Engineer at Volvo Cars in Gothenburg. Before joining Volvo, I worked as a consultant at AFRY for two years. I completed my Ph.D. at KTH Royal Institute of Technology in 2023. Prior to moving to Sweden in 2016, I was a development engineer at the Cummins East Asia R&D Center, following my Bachelor and Master degrees from Wuhan University of Technology. My career has evolved from traditional propulsion into specialized work in vehicle electrification.
 
-Before moving to Sweden, I studied at Wuhan University of Technology and worked at the Cummins East Asia R&D Center. Since then, my studies and work have taken me from transport research and energy systems to vehicle electrification.
-
-Outside work, I enjoy long-distance hiking, swimming, street food, and the changing character of the cities where I have lived. Summer beer, winter hot pot, and salty licorice are a few reliable pleasures. I write about some of these places and memories under [Life & Places]({{ site.baseurl }}/year-archive/).
+Outside work, I enjoy city walk, hiking, street food, and the changing character of the cities where I have lived. Summer beer, winter hot pot, and salty licorice are a few reliable pleasures. I write about some of these places and memories under [Life & Places]({{ site.baseurl }}/year-archive/).
 
 Background
 ======
