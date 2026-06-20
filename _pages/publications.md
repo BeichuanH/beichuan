@@ -22,7 +22,6 @@ Selected Publications
 * Hong, B., Lius, A., Mahendar, S. K., Mihaescu, M., & Cronhjort, A. (2023). Energy and exergy characteristics of an ethanol-fueled heavy-duty SI engine at high-load operation using lean-burn combustion. *Applied Thermal Engineering, 224*, 120063. [DOI: 10.1016/j.applthermaleng.2023.120063](https://doi.org/10.1016/j.applthermaleng.2023.120063)
 * Hong, B., Venkataraman, V., & Cronhjort, A. (2021). Numerical analysis of engine exhaust flow parameters for resolving pre-turbine pulsating flow enthalpy and exergy. *Energies, 14*(19), 6183. [DOI: 10.3390/en14196183](https://doi.org/10.3390/en14196183)
 * Hong, B., Mahendar, S. K., Hyvönen, J., Cronhjort, A., & Erlandsson, A. C. (2020). Quantification of losses and irreversibilities in a marine engine for gas and diesel fuelled operation using an exergy analysis approach. *ICEF 2020*. [DOI: 10.1115/ICEF2020-2956](https://doi.org/10.1115/ICEF2020-2956)
-* Hong, B. (2023). *Exergy Evaluation of Engine Operations: Combustion Process to Exhaust Flow* (Doctoral thesis, KTH Royal Institute of Technology). [Full text](https://kth.diva-portal.org/smash/get/diva2:1804474/FULLTEXT01.pdf)
 
 Conference Presentations
 ======
@@ -57,12 +56,19 @@ Doctoral Coursework
 
 Selected Ph.D. courses at KTH (60 ECTS), 2018–2023:
 
-* Engineering Thermodynamics; Gas Dynamics and Turbomachinery; Combustion Theory and Applications
-* Data-driven Methods in Engineering; Applied Estimation
-* Writing Scientific Articles; Research Questions and Literature Survey
+* Engineering Thermodynamics
+* Gas Dynamics and Turbomachinery
+* Data-driven Methods in Engineering
+* Applied Estimation
+* Convex Optimization with Engineering Applications
+* Writing Scientific Articles
+* Research Questions and Literature Survey
 
 Selected Licentiate courses at KTH (45 ECTS), 2016–2018:
 
-* Reinforcement Learning; Applied Vehicle Dynamics Control
-* Model Predictive Control; Optimal Control Theory
-* Theory of Science and Research Method; Topics in Transport Science
+* Applied Vehicle Dynamics Control
+* Model Predictive Control
+* Optimal Control Theory
+* Reinforcement Learning
+* Theory of Science and Research Method, Technological and Natural Sciences
+* Topics in Transport Science

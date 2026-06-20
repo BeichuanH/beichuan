@@ -1,13 +1,13 @@
 ---
-title: "Research Activities on ICEs (2018-2023)"
+title: "Doctoral Research: KTH CCGEx (2018-2023)"
 excerpt: "Combustion, flow measurement, and thermodynamics for engine applications. <br/><img src='https://beichuanh.github.io/beichuan/images/engine_cell.png' style='width: 550px; height: auto;'>"
 collection: portfolio
 ---
 
-Research at KTH Internal Combustion Engines Division (2018-Present), the Department of Engineering Design & CCGEx
+Research at KTH Department of Engineering Design & CCGEx
 ------
 
-My research work on the internal combustion engines (ICEs) area was conducted at CCGEx. The project involves the following topics:
+My research work at CCGEx involves the following topics:
 
 * Energy and exergy assessments of marine & HD truck engine systems.
 * Combustion characterization associated with alcohol fuels.
@@ -15,7 +15,8 @@ My research work on the internal combustion engines (ICEs) area was conducted at
 * Measurement of exhaust pulses using fast flow measurement techniques.
 
 Ph.D. defense presentation file: <a href="https://beichuanh.github.io/beichuan/files/defense_ver02.pdf" download="beichuan_defense_ver02.pdf">defense_ver02</a>
-The link for doctorial thesis in KTH diva: [Exergy Evaluation of Engine Operations: Combustion Process to Exhaust Flow](https://kth.diva-portal.org/smash/get/diva2:1804474/FULLTEXT01.pdf).
+The link for doctorial thesis (2023) in KTH diva: [Exergy Evaluation of Engine Operations: Combustion Process to Exhaust Flow](https://kth.diva-portal.org/smash/get/diva2:1804474/FULLTEXT01.pdf).
+
 
 ### Combustion characterization and exhaust power assessment
 
