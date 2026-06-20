@@ -6,16 +6,18 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-
-<img src="https://beichuanh.github.io/beichuan/images/photo_1.jpg" alt="photo_1" style="width: 350px; height: auto; float: right;">
-<div class="cv-page">
-  <div class="cv-header">
-    <div class="cv-contact">
-      <p>Phone: (+46) 070 0281 659</p>
-      <p>Email: hongbeichuan@gmail.com</p>
-      <p>Address: Skådemyntsgatan 14, 41484 Göteborg, Sweden</p>
-    </div>
+<div class="cv-header" style="display: flex; align-items: flex-start; gap: 20px;">
+  <!-- 左侧信息区 -->
+  <div class="cv-contact" style="flex: 1;">
+    <p>Phone: (+46) 070 0281 659</p>
+    <p>Email: hongbeichuan@gmail.com</p>
+    <p>Address: Skådemyntsgatan 14, 41484 Göteborg, Sweden</p>
   </div>
+  <!-- 右侧图片区 -->
+  <div class="cv-photo">
+    <img src="photo_1.jpg" alt="Profile" style="width: 250px; border-radius: 8px;">
+  </div>
+</div>
 
   <section class="cv-section">
     <h2>Work Experience</h2>
