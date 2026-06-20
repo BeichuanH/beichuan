@@ -15,7 +15,7 @@ redirect_from:
   </div>
   <!-- 右侧图片区 -->
   <div class="cv-photo">
-    <img src="photo_1.jpg" alt="Profile" style="width: 250px; border-radius: 8px;">
+    <img src="[photo_1.jpg](https://beichuanh.github.io/beichuan/images/photo_1.jpg)" alt="photo_1" style="width: 250px; border-radius: 8px;">
   </div>
 </div>
 
