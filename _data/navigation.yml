@@ -1,13 +1,13 @@
 # Main navigation
 main:
-  - title: "Research"
-    url: /portfolio/
-
   - title: "Academic Profile"
     url: /publications/
 
   - title: "CV"
     url: /cv/
+
+  - title: "Research"
+    url: /portfolio/
 
   - title: "Life & Places"
     url: /year-archive/

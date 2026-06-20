@@ -9,10 +9,6 @@ redirect_from:
 
 <div class="profile-intro">
   <p>
-    Battery CAE engineer with a research background in energy systems, modelling and control,
-    powertrain simulation, and data-driven engineering.
-  </p>
-  <p>
     <a href="mailto:{{ site.author.email }}">{{ site.author.email }}</a> · Gothenburg, Sweden
   </p>
 </div>
