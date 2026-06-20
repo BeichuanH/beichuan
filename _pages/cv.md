@@ -7,11 +7,8 @@ redirect_from:
   - /resume
 ---
 
-
-
-
-<div class="cv-page">
 <img src="https://beichuanh.github.io/beichuan/images/photo_1.jpg" alt="photo_1" style="width: 350px; height: auto; float: right;">
+<div class="cv-page">
   <div class="cv-header">
     <div class="cv-contact">
       <p>Phone: (+46) 070 0281 659</p>
@@ -57,7 +54,6 @@ redirect_from:
       <li>
         <strong>Ph.D. in Machine Design</strong><br>
         KTH Royal Institute of Technology, 2023<br>
-        <a href="https://www.kth.se/profile/beichuan">KTH profile</a>
       </li>
       <li>
         <strong>M.S. in Marine and Power Machinery Engineering</strong><br>
